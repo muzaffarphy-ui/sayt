@@ -1,0 +1,827 @@
+{
+  "config": {
+    "orcid": "0000-0002-8034-4561",
+    "orcidLive": true,
+    "orcidAutoNews": true,
+    "researcherId": "ADZ-3200-2022",
+    "defaultLang": "en"
+  },
+  "profile": {
+    "name": "Muzaffar Annaev",
+    "title": {
+      "en": "MD, MSc — Cardiologist · PhD candidate in Cardiology",
+      "uz": "MD, MSc — Kardiolog · Kardiologiya bo'yicha PhD tadqiqotchisi"
+    },
+    "role": {
+      "en": "Dean, Faculty of Medicine — Kimyo International University in Tashkent, Samarkand Branch",
+      "uz": "Dekan, Tibbiyot fakulteti — Kimyo International University in Tashkent, Samarqand filiali"
+    },
+    "lede": {
+      "en": "I work at the intersection of clinical electrophysiology and predictive cardiology: how the surface ECG and left atrial remodeling can be used to anticipate left ventricular dysfunction in patients with cardiac pacing and left bundle branch block — and how cardiac digital twin modeling can make that prediction patient-specific.",
+      "uz": "Men klinik elektrofiziologiya va prognostik kardiologiya kesishmasida ishlayman: yurak stimulyatsiyasi va chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda yuzaki EKG va chap bo'lmacha remodellanishi orqali chap qorincha disfunksiyasini oldindan bashorat qilish — hamda cardiac digital twin modellashtirish bu bashoratni har bir bemorga xoslashtirish."
+    },
+    "portrait": "",
+    "email": "muzaffarphy@outlook.com",
+    "institution": {
+      "en": "Faculty of Medicine, Kimyo International University in Tashkent — Samarkand Branch, Samarkand, Uzbekistan",
+      "uz": "Tibbiyot fakulteti, Kimyo International University in Tashkent — Samarqand filiali, Samarqand, O'zbekiston"
+    },
+    "location": {
+      "en": "Samarkand, Uzbekistan",
+      "uz": "Samarqand, O'zbekiston"
+    },
+    "links": {
+      "orcid": "https://orcid.org/0000-0002-8034-4561",
+      "scholar": "https://scholar.google.com/citations?user=h9HOdbkAAAAJ",
+      "researchgate": "https://www.researchgate.net/profile/Muzaffar-Annaev",
+      "linkedin": "https://www.linkedin.com/in/muzaffar-annaev/"
+    }
+  },
+  "about": [
+    {
+      "en": "I am a cardiologist and academic leader based in Samarkand, Uzbekistan. Since August 2024 I have served as Dean of the Faculty of Medicine at Kimyo International University in Tashkent, Samarkand Branch, where I am responsible for the design, quality and accreditation-readiness of the medical curriculum. Before that I spent three years as an Assistant Professor at Samarkand State Medical University while practising as a cardiologist at the Samarkand Regional Branch of the Republican Specialized Scientific & Practical Medical Centre of Cardiology.",
+      "uz": "Men Samarqandda faoliyat yurituvchi kardiolog va akademik rahbarman. 2024-yil avgustdan buyon Kimyo International University in Tashkent Samarqand filiali Tibbiyot fakulteti dekani sifatida ishlayman va tibbiy o'quv dasturining dizayni, sifati hamda akkreditatsiyaga tayyorligi uchun mas'ulman. Undan oldin uch yil davomida Samarqand davlat tibbiyot universitetida assistent-professor bo'lib, bir vaqtda Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi Samarqand viloyat filialida kardiolog sifatida faoliyat yuritdim."
+    },
+    {
+      "en": "My training has been international. I completed an MSc in Medicine (Cardiology) at Chungnam National University in Daejeon, South Korea, including a clinical fellowship in interventional cardiology in the catheterisation laboratory of Chungnam National University Hospital, supported by three consecutive research scholarships. I am also a certified expert in accreditation and quality assurance, trained at the Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care in Almaty.",
+      "uz": "Tayyorgarligim xalqaro bo'lgan. Janubiy Koreyaning Dejon shahridagi Chungnam milliy universitetida Tibbiyot (Kardiologiya) bo'yicha magistratura (MSc) ni tamomladim, jumladan Chungnam National University Hospital katetеrizatsiya laboratoriyasida interventsion kardiologiya bo'yicha klinik fellowship o'tadim; buni ketma-ket uchta ilmiy stipendiya qo'llab-quvvatladi. Shuningdek, Olmaotadagi Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazida tayyorlangan sertifikatlangan akkreditatsiya va sifat kafolati eksperti hisoblanaman."
+    },
+    {
+      "en": "I am currently completing a PhD (Falsafa doktori, specialty 14.00.06) at Samarkand State Medical University on LAVI-based prognostic modeling in patients with left bundle branch block, integrated with cardiac digital twin technology.",
+      "uz": "Hozirda Samarqand davlat tibbiyot universitetida PhD (Falsafa doktori, 14.00.06 ixtisosligi) ni yakunlamoqdaman — mavzu: chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda LAVI asosidagi prognostik modellashtirish, cardiac digital twin texnologiyasi bilan integratsiyada."
+    }
+  ],
+  "research": [
+    {
+      "title": {
+        "en": "ECG prediction of LV dysfunction in cardiac pacing",
+        "uz": "Yurak stimulyatsiyasida CHQ disfunksiyasini EKG orqali bashorat qilish"
+      },
+      "text": {
+        "en": "Identifying which electrocardiographic patterns after permanent pacemaker implantation predict a decline in left ventricular ejection fraction — so that patients can be moved early to physiological or resynchronisation pacing.",
+        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini aniqlash — bemorlarni erta bosqichda fiziologik yoki resinxronizatsiya stimulyatsiyasiga o'tkazish uchun."
+      }
+    },
+    {
+      "title": {
+        "en": "LAVI as a prognostic marker in LBBB",
+        "uz": "LBBB'da LAVI prognostik marker sifatida"
+      },
+      "text": {
+        "en": "The left atrial volume index as an integrative marker of chronic filling pressure, and its value in risk-stratifying patients with left bundle branch block. This is the core of my doctoral work.",
+        "uz": "Chap bo'lmacha hajm indeksi (LAVI) surunkali to'lish bosimining integrativ markeri sifatida va uning LBBB bemorlarini risk bo'yicha tabaqalashtirishdagi ahamiyati. Bu — doktorlik ishimning o'zagi."
+      }
+    },
+    {
+      "title": {
+        "en": "Cardiac digital twin modeling",
+        "uz": "Cardiac digital twin modellashtirish"
+      },
+      "text": {
+        "en": "Patient-specific computational models that combine imaging, ECG and clinical data — moving prognosis from the population average to the individual patient.",
+        "uz": "Tasvirlash, EKG va klinik ma'lumotlarni birlashtiruvchi bemorga xos hisoblash modellari — prognozni populyatsiya o'rtachasidan alohida bemorga ko'chirish."
+      }
+    },
+    {
+      "title": {
+        "en": "Arrhythmia & conduction disease",
+        "uz": "Aritmiya va o'tkazuvchanlik kasalliklari"
+      },
+      "text": {
+        "en": "Clinical electrophysiology: accessory pathway syndromes, conduction block, and the interpretation of complex paced and pre-excited electrocardiograms.",
+        "uz": "Klinik elektrofiziologiya: qo'shimcha o'tkazuvchi yo'l sindromlari, o'tkazuvchanlik blokadasi hamda murakkab stimulyatsiyalangan va pre-eksitatsiyali EKG'larni talqin qilish."
+      }
+    },
+    {
+      "title": {
+        "en": "Secondary prevention & comorbidity",
+        "uz": "Ikkilamchi profilaktika va komorbidlik"
+      },
+      "text": {
+        "en": "Guideline-directed secondary prevention in coronary artery disease, and the influence of metabolic syndrome on cardiovascular outcomes.",
+        "uz": "Koronar arteriya kasalligida qo'llanmalarga asoslangan ikkilamchi profilaktika hamda metabolik sindromning yurak-qon tomir oqibatlariga ta'siri."
+      }
+    },
+    {
+      "title": {
+        "en": "Imaging & implantable technology",
+        "uz": "Tasvirlash va implant texnologiyalari"
+      },
+      "text": {
+        "en": "Multimodal and molecular imaging for predictive medicine, and biocompatible implantable antennas for the wireless transmission of cardiac diagnostic data.",
+        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash hamda yurak diagnostika ma'lumotlarini simsiz uzatish uchun biouyg'un implant antennalar."
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": {
+        "en": "LAVI-based prognostic modeling in left bundle branch block",
+        "uz": "Chap oyoqcha blokadasida LAVI asosidagi prognostik modellashtirish"
+      },
+      "role": {
+        "en": "Doctoral researcher (lead)",
+        "uz": "Doktorlik tadqiqotchisi (yetakchi)"
+      },
+      "period": {
+        "en": "2022 – present",
+        "uz": "2022 – hozirgacha"
+      },
+      "description": {
+        "en": "Developing a left atrial volume index (LAVI)-based model to risk-stratify patients with LBBB, integrated with cardiac digital twin technology. Core of the doctoral dissertation.",
+        "uz": "LBBB bemorlarini risk bo'yicha tabaqalashtirish uchun chap bo'lmacha hajm indeksi (LAVI) asosidagi modelni ishlab chiqish, cardiac digital twin texnologiyasi bilan integratsiyada. Doktorlik dissertatsiyasining o'zagi."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University · Supervisor: F. N. Toshentayeva",
+        "uz": "Samarqand davlat tibbiyot universiteti · Rahbar: F. N. Toshentayeva"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "ECG prediction of LV dysfunction after cardiac pacing",
+        "uz": "Yurak stimulyatsiyasidan keyin CHQ disfunksiyasini EKG orqali bashorat qilish"
+      },
+      "role": {
+        "en": "Lead investigator",
+        "uz": "Yetakchi tadqiqotchi"
+      },
+      "period": {
+        "en": "2021 – present",
+        "uz": "2021 – hozirgacha"
+      },
+      "description": {
+        "en": "Studying which electrocardiographic patterns after permanent pacemaker implantation predict a fall in left ventricular ejection fraction. Presented at the ESCI Annual Scientific Meeting (2024) and in earlier conference work (2021).",
+        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini o'rganish. ESCI yillik ilmiy anjumanida (2024) va oldingi konferensiya ishida (2021) taqdim etilgan."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University; RSSPMC of Cardiology, Samarkand Branch",
+        "uz": "Samarqand davlat tibbiyot universiteti; RIKIATM kardiologiya, Samarqand filiali"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "Virtual reality in cardiology education",
+        "uz": "Kardiologiya ta'limida virtual reallik"
+      },
+      "role": {
+        "en": "Co-investigator",
+        "uz": "Hammuallif-tadqiqotchi"
+      },
+      "period": {
+        "en": "2021 – present",
+        "uz": "2021 – hozirgacha"
+      },
+      "description": {
+        "en": "A pedagogical research line evaluating whether immersive VR improves medical students' performance in cardiology. Published in the Journal of Cardiorespiratory Research (2022) and presented at ESCI (2024).",
+        "uz": "Immersiv VR tibbiyot talabalarining kardiologiyadagi natijalarini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. Journal of Cardiorespiratory Research'da (2022) nashr etilgan va ESCI'da (2024) taqdim etilgan."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University",
+        "uz": "Samarqand davlat tibbiyot universiteti"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "Multimodal & molecular imaging for predictive medicine",
+        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash"
+      },
+      "role": {
+        "en": "Collaborator",
+        "uz": "Hamkor"
+      },
+      "period": {
+        "en": "2023 – 2025",
+        "uz": "2023 – 2025"
+      },
+      "description": {
+        "en": "A series of case reports and reviews on multimodal and molecular imaging and its role in predictive medicine, in collaboration with the Chungnam National University research group.",
+        "uz": "Multimodal va molekulyar tasvirlash hamda uning prognostik tibbiyotdagi o'rni bo'yicha klinik holat hisobotlari va sharhlar turkumi, Chungnam milliy universiteti tadqiqot guruhi bilan hamkorlikda."
+      },
+      "partners": {
+        "en": "Chungnam National University group; Journal of Medical Imaging (ScholarGen)",
+        "uz": "Chungnam milliy universiteti guruhi; Journal of Medical Imaging (ScholarGen)"
+      },
+      "link": "",
+      "status": {
+        "en": "Completed",
+        "uz": "Yakunlangan"
+      }
+    },
+    {
+      "title": {
+        "en": "Biocompatible implantable antenna for wireless cardiac data",
+        "uz": "Yurak ma'lumotlarini simsiz uzatish uchun biouyg'un implant antenna"
+      },
+      "role": {
+        "en": "Co-investigator",
+        "uz": "Hammuallif-tadqiqotchi"
+      },
+      "period": {
+        "en": "2024 – 2025",
+        "uz": "2024 – 2025"
+      },
+      "description": {
+        "en": "Interdisciplinary work on a biocompatible dual-band implantable antenna with SAR-reduction techniques for the wireless transmission of cardiac and neural diagnostic data.",
+        "uz": "Yurak va nerv diagnostika ma'lumotlarini simsiz uzatish uchun SAR'ni kamaytirish usullariga ega biouyg'un ikki diapazonli implant antenna bo'yicha fanlararo ish."
+      },
+      "partners": {
+        "en": "National Journal of Antennas and Propagation (2025)",
+        "uz": "National Journal of Antennas and Propagation (2025)"
+      },
+      "link": "https://www.antennajournal.com/index.php/antenna/article/view/262",
+      "status": {
+        "en": "Completed",
+        "uz": "Yakunlangan"
+      }
+    }
+  ],
+  "publications": [
+    {
+      "type": "article",
+      "text": "Development of a biocompatible dual-band implantable antenna with optimized SAR reduction techniques for wireless transmission of cardiac and neural diagnostics data.",
+      "venue": "National Journal of Antennas and Propagation",
+      "year": "2025",
+      "url": "https://www.antennajournal.com/index.php/antenna/article/view/262",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "conference",
+      "text": "Annaev M, Tashkenbaeva E, et al. Alternatives to iodine contrast dye in angioplasty and angiography for patients with chronic kidney disease.",
+      "venue": "European Journal of Clinical Investigation",
+      "year": "2025",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "conference",
+      "text": "Annaev M, et al. Recurrent WPW syndrome with multiple accessory pathways: a case report.",
+      "venue": "European Journal of Clinical Investigation",
+      "year": "2025",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Multimodal imaging of perineural spread in parotid adenoid cystic carcinoma: a case report and review.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2025",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Multimodal imaging evaluation and clinical correlation in a case of non-small cell lung carcinoma presenting with acute dyspnea.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2025",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "conference",
+      "text": "Annaev M, Tashkenbaeva E, Nasirova Z, Saidrasulova G, Velayutham AK, Bekhbudi S. Prognostic implications of electrocardiography in patients with permanent pacemaker insertion.",
+      "venue": "European Journal of Clinical Investigation, 54(Suppl 1). Wiley",
+      "year": "2024",
+      "url": "",
+      "doi": "",
+      "badge": "Core",
+      "source": "manual"
+    },
+    {
+      "type": "conference",
+      "text": "Annaev M, Tashkenbaeva E, Abdullayeva Z, Abdulloeva M, Khusanov K, Jusipova U. The impact of virtual reality technology on the academic success of medical students under the COVID-19 circumstance.",
+      "venue": "European Journal of Clinical Investigation, 54(Suppl 1). Wiley",
+      "year": "2024",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Park G, Annaev M, Park S, Aye SL, Aminov Z, Zhang KK, Lee H. Nano-drone for T2 turbo spin echo (TSE) MRI in a gastric cancer mouse model.",
+      "venue": "Journal of Magnetics, 29(1):123–131",
+      "year": "2024",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Diagnosis of hepatic hemangioma in a 35-year-old female with an incidental liver lesion detected on ultrasound examination.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2024",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "The role of molecular imaging in predictive medicine: a review.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2024",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "A 58-year-old man with progressive dyspnea suffering from Mounier-Kuhn syndrome.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Insight of medical imaging for precision medicine focusing on the radiomics aspect: a review.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Consideration of nanomedicine — its past, future and application possibilities: a review.",
+      "venue": "Journal of Medical Imaging",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Viswaprasad A, Annaev M. Bronchial asthma: current concepts.",
+      "venue": "Interpretation and Researches, 1(10)",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Chettiam S, Maffi JV, Alexander D, Joseph J, Annaev M. New findings and pathological aspects of pneumonia.",
+      "venue": "Interpretation and Researches, 1(9)",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Shodiyeva D, Bobakandova M, Annaev M, Tokhirova J. Identification and isolation of endophytic fungi producing L-asparaginase in representatives of the Asteraceae family.",
+      "venue": "Science and Innovation, 2(D2):107–112",
+      "year": "2023",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Tashkenbaeva EN, Annaev M, Abdieva GA. The effect of virtual reality on student performance in studying cardiology.",
+      "venue": "Journal of Cardiorespiratory Research, 1(4):69–74",
+      "year": "2022",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "article",
+      "text": "Impact of metabolic syndrome on COVID-19 and coronary artery disease: clinical and pathogenetic insights.",
+      "venue": "",
+      "year": "",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "conference",
+      "text": "Prognostic association of electrocardiographic findings with left ventricular ejection fraction in patients with right ventricular pacing pacemakers.",
+      "venue": "Conference paper",
+      "year": "2021",
+      "url": "",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    },
+    {
+      "type": "other",
+      "text": "Annaev M, Nasretdinova M. New support for research and international collaboration in medical education.",
+      "venue": "Osmosis — Raise the Line",
+      "year": "2022",
+      "url": "https://www.osmosis.org/podcast/renewed-focus-on-research-in-medical-education-uzbekistan",
+      "doi": "",
+      "badge": "",
+      "source": "manual"
+    }
+  ],
+  "teaching": {
+    "intro": {
+      "en": "As Dean I hold academic and administrative responsibility for the faculty's medical education directions: curriculum architecture, quality assurance, staff development, and preparation for national and international accreditation.",
+      "uz": "Dekan sifatida fakultetning tibbiy ta'lim yo'nalishlari uchun akademik va ma'muriy javobgarlikni zimmamda olganman: o'quv dasturi arxitekturasi, sifat kafolati, kadrlar rivoji hamda milliy va xalqaro akkreditatsiyaga tayyorgarlik."
+    },
+    "cards": [
+      {
+        "title": {
+          "en": "Curriculum design & quality assurance",
+          "uz": "O'quv dasturi dizayni va sifat kafolati"
+        },
+        "text": {
+          "en": "Module and course organisation, development of teaching materials, and alignment of programmes with accreditation standards. Certified expert of the Eurasian Centre for Accreditation and Quality Assurance (Almaty, 2021).",
+          "uz": "Modul va kurslarni tashkil etish, o'quv materiallarini ishlab chiqish hamda dasturlarni akkreditatsiya standartlariga moslashtirish. Akkreditatsiya va sifat kafolati Yevrosiyo markazining sertifikatlangan eksperti (Olmaota, 2021)."
+        }
+      },
+      {
+        "title": {
+          "en": "Virtual reality in cardiology education",
+          "uz": "Kardiologiya ta'limida virtual reallik"
+        },
+        "text": {
+          "en": "A pedagogical research line asking whether immersive VR improves student performance. Begun under COVID-19 conditions, it is now a standing part of how we teach clinical skills; published in the Journal of Cardiorespiratory Research and presented at ESCI.",
+          "uz": "Immersiv VR talabalar natijasini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. COVID-19 sharoitida boshlangan, hozir klinik ko'nikmalarni o'qitishning doimiy qismi; Journal of Cardiorespiratory Research'da nashr etilgan va ESCI'da taqdim etilgan."
+        }
+      },
+      {
+        "title": {
+          "en": "Supervision & mentoring",
+          "uz": "Rahbarlik va mentorlik"
+        },
+        "text": {
+          "en": "Supervision of students and junior researchers in cardiology, with an emphasis on bringing young Uzbek authors into internationally indexed journals and conferences.",
+          "uz": "Kardiologiya bo'yicha talabalar va yosh tadqiqotchilarga rahbarlik; O'zbekistonlik yosh mualliflarni xalqaro indekslangan jurnal va konferensiyalarga olib chiqishga urg'u."
+        }
+      },
+      {
+        "title": {
+          "en": "International collaboration",
+          "uz": "Xalqaro hamkorlik"
+        },
+        "text": {
+          "en": "Advocacy for research capacity and international partnership in Uzbek medical education — including work with Osmosis / Raise the Line and continuing ties with Chungnam National University, South Korea.",
+          "uz": "O'zbek tibbiy ta'limida tadqiqot salohiyati va xalqaro hamkorlikni targ'ib qilish — jumladan Osmosis / Raise the Line bilan ish va Chungnam milliy universiteti (Janubiy Koreya) bilan davomiy aloqalar."
+        }
+      }
+    ]
+  },
+  "cv": {
+    "appointments": [
+      {
+        "when": {
+          "en": "Aug 2024 – present",
+          "uz": "Avg 2024 – hozirgacha"
+        },
+        "what": {
+          "en": "Dean, Faculty of Medicine",
+          "uz": "Dekan, Tibbiyot fakulteti"
+        },
+        "where": {
+          "en": "Kimyo International University in Tashkent — Samarkand Branch",
+          "uz": "Kimyo International University in Tashkent — Samarqand filiali"
+        },
+        "detail": {
+          "en": "Academic leadership and administrative oversight of the medical education directions; curriculum quality and accreditation readiness.",
+          "uz": "Tibbiy ta'lim yo'nalishlarining akademik rahbarligi va ma'muriy nazorati; o'quv dasturi sifati va akkreditatsiyaga tayyorlik."
+        }
+      },
+      {
+        "when": {
+          "en": "Sep 2021 – Aug 2024",
+          "uz": "Sen 2021 – Avg 2024"
+        },
+        "what": {
+          "en": "Assistant Professor",
+          "uz": "Assistent-professor"
+        },
+        "where": {
+          "en": "Samarkand State Medical University",
+          "uz": "Samarqand davlat tibbiyot universiteti"
+        },
+        "detail": {
+          "en": "Development of teaching materials and curricula; module and course organiser; supervision of students.",
+          "uz": "O'quv materiallari va dasturlarni ishlab chiqish; modul va kurs tashkilotchisi; talabalarga rahbarlik."
+        }
+      },
+      {
+        "when": {
+          "en": "Sep 2021 – Aug 2024",
+          "uz": "Sen 2021 – Avg 2024"
+        },
+        "what": {
+          "en": "Cardiologist (part-time)",
+          "uz": "Kardiolog (yarim stavka)"
+        },
+        "where": {
+          "en": "Samarkand Regional Branch, Republican Specialized Scientific & Practical Medical Centre of Cardiology",
+          "uz": "Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi Samarqand viloyat filiali"
+        },
+        "detail": {
+          "en": "Diagnosis and treatment of cardiovascular disease; echocardiography and diagnostic testing.",
+          "uz": "Yurak-qon tomir kasalliklari diagnostikasi va davolash; exokardiografiya va diagnostik tekshiruvlar."
+        }
+      },
+      {
+        "when": {
+          "en": "Jan 2018 – Feb 2019",
+          "uz": "Yan 2018 – Fev 2019"
+        },
+        "what": {
+          "en": "General Practitioner & EMS Physician",
+          "uz": "Umumiy amaliyot shifokori va tez tibbiy yordam shifokori"
+        },
+        "where": {
+          "en": "Pastdargom Municipal Hospital, Samarkand",
+          "uz": "Pastdarg'om tuman shifoxonasi, Samarqand"
+        },
+        "detail": {
+          "en": "Emergency assessment and treatment; routine and prophylactic examination.",
+          "uz": "Shoshilinch baholash va davolash; profilaktik ko'riklar."
+        }
+      }
+    ],
+    "education": [
+      {
+        "when": {
+          "en": "In progress",
+          "uz": "Jarayonda"
+        },
+        "what": {
+          "en": "PhD (Falsafa doktori), Cardiology — 14.00.06",
+          "uz": "PhD (Falsafa doktori), Kardiologiya — 14.00.06"
+        },
+        "where": {
+          "en": "Samarkand State Medical University",
+          "uz": "Samarqand davlat tibbiyot universiteti"
+        },
+        "detail": {
+          "en": "Dissertation: LAVI-based prognostic modeling in LBBB patients integrating cardiac digital twin technology. Supervisor: F. N. Toshentayeva.",
+          "uz": "Dissertatsiya: LBBB bemorlarida cardiac digital twin texnologiyasi bilan integratsiyalashgan LAVI asosidagi prognostik modellashtirish. Rahbar: F. N. Toshentayeva."
+        }
+      },
+      {
+        "when": {
+          "en": "Sep 2020 – Feb 2021",
+          "uz": "Sen 2020 – Fev 2021"
+        },
+        "what": {
+          "en": "Clinical Internship — Interventional Cardiology",
+          "uz": "Klinik amaliyot — Interventsion kardiologiya"
+        },
+        "where": {
+          "en": "Chungnam National University Hospital, Daejeon, South Korea",
+          "uz": "Chungnam milliy universiteti klinikasi, Dejon, Janubiy Koreya"
+        },
+        "detail": {
+          "en": "Catheterisation laboratory; procedural and interventional cardiology.",
+          "uz": "Katetеrizatsiya laboratoriyasi; protsedural va interventsion kardiologiya."
+        }
+      },
+      {
+        "when": {
+          "en": "Mar 2019 – Feb 2021",
+          "uz": "Mar 2019 – Fev 2021"
+        },
+        "what": {
+          "en": "MSc in Medicine — Cardiology",
+          "uz": "Tibbiyot magistri (MSc) — Kardiologiya"
+        },
+        "where": {
+          "en": "Chungnam National University, Daejeon, South Korea",
+          "uz": "Chungnam milliy universiteti, Dejon, Janubiy Koreya"
+        },
+        "detail": {
+          "en": "Research on arrhythmias, left bundle branch block, and secondary-prevention guidelines.",
+          "uz": "Aritmiyalar, chap oyoqcha blokadasi va ikkilamchi profilaktika qo'llanmalari bo'yicha tadqiqot."
+        }
+      },
+      {
+        "when": {
+          "en": "Dec 2021",
+          "uz": "Dek 2021"
+        },
+        "what": {
+          "en": "Certified Expert, Accreditation & Quality Assurance",
+          "uz": "Sertifikatlangan ekspert, Akkreditatsiya va sifat kafolati"
+        },
+        "where": {
+          "en": "Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care, Almaty",
+          "uz": "Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazi, Olmaota"
+        },
+        "detail": {
+          "en": "",
+          "uz": ""
+        }
+      },
+      {
+        "when": {
+          "en": "2011 – 2018",
+          "uz": "2011 – 2018"
+        },
+        "what": {
+          "en": "Doctor of Medicine (MD), General Medicine",
+          "uz": "Tibbiyot doktori (MD), Umumiy tibbiyot"
+        },
+        "where": {
+          "en": "Samarkand State Medical University",
+          "uz": "Samarqand davlat tibbiyot universiteti"
+        },
+        "detail": {
+          "en": "",
+          "uz": ""
+        }
+      }
+    ],
+    "awards": [
+      {
+        "when": {
+          "en": "Nov 2020",
+          "uz": "Noy 2020"
+        },
+        "what": {
+          "en": "Research Encouragement Scholarship",
+          "uz": "Tadqiqotni rag'batlantirish stipendiyasi"
+        },
+        "where": {
+          "en": "Chungnam National University, South Korea",
+          "uz": "Chungnam milliy universiteti, Janubiy Koreya"
+        },
+        "detail": {
+          "en": "",
+          "uz": ""
+        }
+      },
+      {
+        "when": {
+          "en": "2020 – 2021",
+          "uz": "2020 – 2021"
+        },
+        "what": {
+          "en": "Global Hope Scholarship",
+          "uz": "Global Hope stipendiyasi"
+        },
+        "where": {
+          "en": "Samsung Dream Scholarship Foundation, South Korea",
+          "uz": "Samsung Dream Scholarship jamg'armasi, Janubiy Koreya"
+        },
+        "detail": {
+          "en": "",
+          "uz": ""
+        }
+      },
+      {
+        "when": {
+          "en": "Mar 2019",
+          "uz": "Mar 2019"
+        },
+        "what": {
+          "en": "Research Excellence Scholarship",
+          "uz": "Tadqiqotdagi mukammallik stipendiyasi"
+        },
+        "where": {
+          "en": "Chungnam National University, South Korea",
+          "uz": "Chungnam milliy universiteti, Janubiy Koreya"
+        },
+        "detail": {
+          "en": "",
+          "uz": ""
+        }
+      }
+    ],
+    "skills": [
+      {
+        "label": {
+          "en": "Clinical",
+          "uz": "Klinik"
+        },
+        "value": {
+          "en": "Echocardiography (2D/3D with strain); 12-lead ECG interpretation; interventional cardiology procedures.",
+          "uz": "Exokardiografiya (2D/3D, strain bilan); 12 tarmoqli EKG talqini; interventsion kardiologiya protseduralari."
+        }
+      },
+      {
+        "label": {
+          "en": "Analytical",
+          "uz": "Analitik"
+        },
+        "value": {
+          "en": "Statistical analysis (SPSS); medical data analysis and reporting; cardiac digital twin modeling.",
+          "uz": "Statistik tahlil (SPSS); tibbiy ma'lumotlar tahlili va hisobot; cardiac digital twin modellashtirish."
+        }
+      },
+      {
+        "label": {
+          "en": "Academic",
+          "uz": "Akademik"
+        },
+        "value": {
+          "en": "Curriculum design; module organisation; conference presentation (talks, posters, workshops).",
+          "uz": "O'quv dasturi dizayni; modul tashkil etish; konferensiya taqdimotlari (ma'ruza, poster, seminar)."
+        }
+      },
+      {
+        "label": {
+          "en": "Languages",
+          "uz": "Tillar"
+        },
+        "value": {
+          "en": "Uzbek (native) · English (full professional, IELTS 7.0) · Russian (full professional) · Korean (intermediate, TOPIK 4).",
+          "uz": "O'zbek (ona tili) · Ingliz (to'liq professional, IELTS 7.0) · Rus (to'liq professional) · Koreys (o'rta, TOPIK 4)."
+        }
+      }
+    ]
+  },
+  "news": [
+    {
+      "when": {
+        "en": "2025",
+        "uz": "2025"
+      },
+      "text": {
+        "en": "Two case reports on multimodal imaging — parotid adenoid cystic carcinoma, and non-small cell lung carcinoma — published in the Journal of Medical Imaging.",
+        "uz": "Multimodal tasvirlash bo'yicha ikki klinik holat hisoboti — quloqoldi bezi adenoid kistoz karsinomasi va mayda hujayrali bo'lmagan o'pka karsinomasi — Journal of Medical Imaging'da nashr etildi."
+      }
+    },
+    {
+      "when": {
+        "en": "2025",
+        "uz": "2025"
+      },
+      "text": {
+        "en": "Two abstracts accepted at the ESCI Annual Scientific Meeting: alternatives to iodinated contrast in patients with chronic kidney disease, and recurrent WPW syndrome with multiple accessory pathways.",
+        "uz": "ESCI yillik ilmiy anjumaniga ikki tezis qabul qilindi: surunkali buyrak kasalligi bemorlarida yodli kontrastga muqobillar va ko'p qo'shimcha yo'lli takroriy WPW sindromi."
+      }
+    },
+    {
+      "when": {
+        "en": "Aug 2024",
+        "uz": "Avg 2024"
+      },
+      "text": {
+        "en": "Appointed Dean of the Faculty of Medicine, Kimyo International University in Tashkent — Samarkand Branch.",
+        "uz": "Kimyo International University in Tashkent Samarqand filiali Tibbiyot fakulteti dekani etib tayinlandi."
+      }
+    },
+    {
+      "when": {
+        "en": "2024",
+        "uz": "2024"
+      },
+      "text": {
+        "en": "Abstract on the prognostic implications of electrocardiography after permanent pacemaker insertion published in the European Journal of Clinical Investigation (Wiley).",
+        "uz": "Doimiy elektrokardiostimulyator o'rnatilgandan keyin EKG'ning prognostik ahamiyati bo'yicha tezis European Journal of Clinical Investigation'da (Wiley) nashr etildi."
+      }
+    },
+    {
+      "when": {
+        "en": "2022",
+        "uz": "2022"
+      },
+      "text": {
+        "en": "Featured with Mahzuna Nasretdinova on Osmosis Raise the Line, on research and international collaboration in Uzbek medical education.",
+        "uz": "Mahzuna Nasretdinova bilan birga Osmosis Raise the Line'da O'zbek tibbiy ta'limida tadqiqot va xalqaro hamkorlik mavzusida ishtirok etdi."
+      }
+    }
+  ],
+  "contact": {
+    "note": {
+      "en": "I welcome collaboration on cardiac pacing outcomes, LBBB risk stratification, digital twin modeling, and on international partnerships in medical education.",
+      "uz": "Yurak stimulyatsiyasi natijalari, LBBB risk tabaqalashtirish, digital twin modellashtirish hamda tibbiy ta'limda xalqaro hamkorlik bo'yicha hamkorlikni mamnuniyat bilan qabul qilaman."
+    }
+  }
+}

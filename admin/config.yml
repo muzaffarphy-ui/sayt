@@ -1,0 +1,233 @@
+# ============================================================
+# Decap CMS — Muzaffar Annaev (ikki tilli: EN/UZ)
+# QUYIDAGI 3 QATORNI O'ZGARTIRING (OQING-DEPLOY.md):
+#   repo, base_url
+# Har bir matn maydonida EN va UZ kichik maydonlari bor.
+# ============================================================
+backend:
+  name: github
+  repo: REPLACE_GITHUB_USER/REPLACE_REPO
+  branch: main
+  base_url: https://REPLACE-OAUTH.workers.dev
+  commit_messages:
+    update: 'Sayt yangilandi: {{collection}}'
+
+media_folder: "images"
+public_folder: "/images"
+locale: "en"
+site_url: https://muzaffarannaev.com
+display_url: https://muzaffarannaev.com
+
+collections:
+  - name: "site"
+    label: "Sayt"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "data"
+        label: "Barcha kontent"
+        file: "data.json"
+        description: "Saytning barcha bo'limlari. Har bir matnning EN va UZ varianti bor."
+        fields:
+
+          - label: "Sozlamalar"
+            name: "config"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "ORCID iD", name: "orcid", widget: "string" }
+              - { label: "ORCID'dan avtomatik yangilash", name: "orcidLive", widget: "boolean", default: true }
+              - { label: "Yangi nashr News'ga ham qo'shilsin", name: "orcidAutoNews", widget: "boolean", default: true }
+              - { label: "ResearcherID", name: "researcherId", widget: "string", required: false }
+              - label: "Standart til"
+                name: "defaultLang"
+                widget: "select"
+                options: [ { label: "English", value: "en" }, { label: "O'zbek", value: "uz" } ]
+                default: "en"
+
+          - label: "Profil"
+            name: "profile"
+            widget: "object"
+            fields:
+              - { label: "Ism", name: "name", widget: "string" }
+              - label: "Unvon"
+                name: "title"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Lavozim"
+                name: "role"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - label: "Lede (hero matni)"
+                name: "lede"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - { label: "Portret rasm", name: "portrait", widget: "image", required: false }
+              - { label: "Email", name: "email", widget: "string" }
+              - label: "Muassasa"
+                name: "institution"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - label: "Joylashuv"
+                name: "location"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Havolalar"
+                name: "links"
+                widget: "object"
+                fields:
+                  - { label: "ORCID", name: "orcid", widget: "string", required: false }
+                  - { label: "Google Scholar", name: "scholar", widget: "string", required: false }
+                  - { label: "ResearchGate", name: "researchgate", widget: "string", required: false }
+                  - { label: "LinkedIn", name: "linkedin", widget: "string", required: false }
+
+          - label: "About (biografiya)"
+            name: "about"
+            widget: "list"
+            summary: "{{fields.en}}"
+            fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+
+          - label: "Research yo'nalishlari"
+            name: "research"
+            widget: "list"
+            summary: "{{fields.title.en}}"
+            fields:
+              - label: "Sarlavha"
+                name: "title"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Matn"
+                name: "text"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+
+          - label: "Ilmiy loyihalar (Projects)"
+            name: "projects"
+            widget: "list"
+            summary: "{{fields.title.en}}"
+            fields:
+              - label: "Sarlavha"
+                name: "title"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Rol"
+                name: "role"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Davr"
+                name: "period"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Holat (Active / Completed)"
+                name: "status"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+              - label: "Tavsif"
+                name: "description"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - label: "Hamkorlar"
+                name: "partners"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - { label: "Havola (URL)", name: "link", widget: "string", required: false }
+
+          - label: "Nashrlar (iqtiboslar — ingliz tilida)"
+            name: "publications"
+            widget: "list"
+            summary: "{{fields.year}} — {{fields.text}}"
+            fields:
+              - label: "Toifa"
+                name: "type"
+                widget: "select"
+                options:
+                  - { label: "Journal article", value: "article" }
+                  - { label: "Conference abstract", value: "conference" }
+                  - { label: "Other writing", value: "other" }
+                default: "article"
+              - { label: "Iqtibos matni", name: "text", widget: "text" }
+              - { label: "Jurnal / manba", name: "venue", widget: "string", required: false }
+              - { label: "Yil", name: "year", widget: "string", required: false }
+              - { label: "DOI", name: "doi", widget: "string", required: false }
+              - { label: "Havola (URL)", name: "url", widget: "string", required: false }
+              - { label: "Badge", name: "badge", widget: "string", required: false }
+              - { label: "Manba", name: "source", widget: "hidden", default: "manual" }
+
+          - label: "Teaching"
+            name: "teaching"
+            widget: "object"
+            fields:
+              - label: "Kirish abzatsi"
+                name: "intro"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+              - label: "Kartochkalar"
+                name: "cards"
+                widget: "list"
+                summary: "{{fields.title.en}}"
+                fields:
+                  - label: "Sarlavha"
+                    name: "title"
+                    widget: "object"
+                    fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ]
+                  - label: "Matn"
+                    name: "text"
+                    widget: "object"
+                    fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
+
+          - label: "CV"
+            name: "cv"
+            widget: "object"
+            fields:
+              - label: "Appointments"
+                name: "appointments"
+                widget: "list"
+                summary: "{{fields.what.en}}"
+                fields:
+                  - { label: "Sana", name: "when", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Lavozim", name: "what", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Tashkilot", name: "where", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Tafsilot", name: "detail", widget: "object", fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ] }
+              - label: "Education & training"
+                name: "education"
+                widget: "list"
+                summary: "{{fields.what.en}}"
+                fields:
+                  - { label: "Sana", name: "when", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Nima", name: "what", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Tashkilot", name: "where", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Tafsilot", name: "detail", widget: "object", fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ] }
+              - label: "Awards"
+                name: "awards"
+                widget: "list"
+                summary: "{{fields.what.en}}"
+                fields:
+                  - { label: "Sana", name: "when", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Mukofot", name: "what", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Beruvchi", name: "where", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Tafsilot", name: "detail", widget: "object", required: false, fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ] }
+              - label: "Skills & languages"
+                name: "skills"
+                widget: "list"
+                summary: "{{fields.label.en}}"
+                fields:
+                  - { label: "Nomi", name: "label", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+                  - { label: "Qiymati", name: "value", widget: "object", fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ] }
+
+          - label: "Yangiliklar"
+            name: "news"
+            widget: "list"
+            summary: "{{fields.when.en}} — {{fields.text.en}}"
+            fields:
+              - { label: "Sana", name: "when", widget: "object", fields: [ { label: "EN", name: "en", widget: "string" }, { label: "UZ", name: "uz", widget: "string" } ] }
+              - { label: "Matn", name: "text", widget: "object", fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ] }
+
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - label: "Izoh matni"
+                name: "note"
+                widget: "object"
+                fields: [ { label: "EN", name: "en", widget: "text" }, { label: "UZ", name: "uz", widget: "text" } ]
