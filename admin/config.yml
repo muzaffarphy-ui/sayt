@@ -6,9 +6,9 @@
 # ============================================================
 backend:
   name: github
-  repo: REPLACE_GITHUB_USER/REPLACE_REPO
+  repo: muzaffarphy-ui/sayt
   branch: main
-  base_url: https://REPLACE-OAUTH.workers.dev
+  base_url: https://decap-oauth.muzaffarphy.workers.dev
   commit_messages:
     update: 'Sayt yangilandi: {{collection}}'
 
