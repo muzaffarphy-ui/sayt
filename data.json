@@ -1,4 +1,10 @@
 {
+  "contact": {
+    "note": {
+      "en": "I welcome collaboration on cardiac pacing outcomes, LBBB risk stratification, digital twin modeling, and on international partnerships in medical education.",
+      "uz": "Yurak stimulyatsiyasi natijalari, LBBB risk tabaqalashtirish, digital twin modellashtirish hamda tibbiy ta'limda xalqaro hamkorlik bo'yicha hamkorlikni mamnuniyat bilan qabul qilaman."
+    }
+  },
   "config": {
     "orcid": "0000-0002-8034-4561",
     "orcidLive": true,
@@ -6,250 +12,6 @@
     "researcherId": "ADZ-3200-2022",
     "defaultLang": "en"
   },
-  "profile": {
-    "name": "Muzaffar Annaev",
-    "title": {
-      "en": "MD, MSc — Cardiologist · PhD candidate in Cardiology",
-      "uz": "MD, MSc — Kardiolog · Kardiologiya bo'yicha PhD tadqiqotchisi"
-    },
-    "role": {
-      "en": "Dean, Faculty of Medicine — Kimyo International University in Tashkent, Samarkand Branch",
-      "uz": "Dekan, Tibbiyot fakulteti — Kimyo International University in Tashkent, Samarqand filiali"
-    },
-    "lede": {
-      "en": "I work at the intersection of clinical electrophysiology and predictive cardiology: how the surface ECG and left atrial remodeling can be used to anticipate left ventricular dysfunction in patients with cardiac pacing and left bundle branch block — and how cardiac digital twin modeling can make that prediction patient-specific.",
-      "uz": "Men klinik elektrofiziologiya va prognostik kardiologiya kesishmasida ishlayman: yurak stimulyatsiyasi va chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda yuzaki EKG va chap bo'lmacha remodellanishi orqali chap qorincha disfunksiyasini oldindan bashorat qilish — hamda cardiac digital twin modellashtirish bu bashoratni har bir bemorga xoslashtirish."
-    },
-    "portrait": "",
-    "email": "muzaffarphy@outlook.com",
-    "institution": {
-      "en": "Faculty of Medicine, Kimyo International University in Tashkent — Samarkand Branch, Samarkand, Uzbekistan",
-      "uz": "Tibbiyot fakulteti, Kimyo International University in Tashkent — Samarqand filiali, Samarqand, O'zbekiston"
-    },
-    "location": {
-      "en": "Samarkand, Uzbekistan",
-      "uz": "Samarqand, O'zbekiston"
-    },
-    "links": {
-      "orcid": "https://orcid.org/0000-0002-8034-4561",
-      "scholar": "https://scholar.google.com/citations?user=h9HOdbkAAAAJ",
-      "researchgate": "https://www.researchgate.net/profile/Muzaffar-Annaev",
-      "linkedin": "https://www.linkedin.com/in/muzaffar-annaev/"
-    }
-  },
-  "about": [
-    {
-      "en": "I am a cardiologist and academic leader based in Samarkand, Uzbekistan. Since August 2024 I have served as Dean of the Faculty of Medicine at Kimyo International University in Tashkent, Samarkand Branch, where I am responsible for the design, quality and accreditation-readiness of the medical curriculum. Before that I spent three years as an Assistant Professor at Samarkand State Medical University while practising as a cardiologist at the Samarkand Regional Branch of the Republican Specialized Scientific & Practical Medical Centre of Cardiology.",
-      "uz": "Men Samarqandda faoliyat yurituvchi kardiolog va akademik rahbarman. 2024-yil avgustdan buyon Kimyo International University in Tashkent Samarqand filiali Tibbiyot fakulteti dekani sifatida ishlayman va tibbiy o'quv dasturining dizayni, sifati hamda akkreditatsiyaga tayyorligi uchun mas'ulman. Undan oldin uch yil davomida Samarqand davlat tibbiyot universitetida assistent-professor bo'lib, bir vaqtda Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi Samarqand viloyat filialida kardiolog sifatida faoliyat yuritdim."
-    },
-    {
-      "en": "My training has been international. I completed an MSc in Medicine (Cardiology) at Chungnam National University in Daejeon, South Korea, including a clinical fellowship in interventional cardiology in the catheterisation laboratory of Chungnam National University Hospital, supported by three consecutive research scholarships. I am also a certified expert in accreditation and quality assurance, trained at the Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care in Almaty.",
-      "uz": "Tayyorgarligim xalqaro bo'lgan. Janubiy Koreyaning Dejon shahridagi Chungnam milliy universitetida Tibbiyot (Kardiologiya) bo'yicha magistratura (MSc) ni tamomladim, jumladan Chungnam National University Hospital katetеrizatsiya laboratoriyasida interventsion kardiologiya bo'yicha klinik fellowship o'tadim; buni ketma-ket uchta ilmiy stipendiya qo'llab-quvvatladi. Shuningdek, Olmaotadagi Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazida tayyorlangan sertifikatlangan akkreditatsiya va sifat kafolati eksperti hisoblanaman."
-    },
-    {
-      "en": "I am currently completing a PhD (Falsafa doktori, specialty 14.00.06) at Samarkand State Medical University on LAVI-based prognostic modeling in patients with left bundle branch block, integrated with cardiac digital twin technology.",
-      "uz": "Hozirda Samarqand davlat tibbiyot universitetida PhD (Falsafa doktori, 14.00.06 ixtisosligi) ni yakunlamoqdaman — mavzu: chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda LAVI asosidagi prognostik modellashtirish, cardiac digital twin texnologiyasi bilan integratsiyada."
-    }
-  ],
-  "research": [
-    {
-      "title": {
-        "en": "ECG prediction of LV dysfunction in cardiac pacing",
-        "uz": "Yurak stimulyatsiyasida CHQ disfunksiyasini EKG orqali bashorat qilish"
-      },
-      "text": {
-        "en": "Identifying which electrocardiographic patterns after permanent pacemaker implantation predict a decline in left ventricular ejection fraction — so that patients can be moved early to physiological or resynchronisation pacing.",
-        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini aniqlash — bemorlarni erta bosqichda fiziologik yoki resinxronizatsiya stimulyatsiyasiga o'tkazish uchun."
-      }
-    },
-    {
-      "title": {
-        "en": "LAVI as a prognostic marker in LBBB",
-        "uz": "LBBB'da LAVI prognostik marker sifatida"
-      },
-      "text": {
-        "en": "The left atrial volume index as an integrative marker of chronic filling pressure, and its value in risk-stratifying patients with left bundle branch block. This is the core of my doctoral work.",
-        "uz": "Chap bo'lmacha hajm indeksi (LAVI) surunkali to'lish bosimining integrativ markeri sifatida va uning LBBB bemorlarini risk bo'yicha tabaqalashtirishdagi ahamiyati. Bu — doktorlik ishimning o'zagi."
-      }
-    },
-    {
-      "title": {
-        "en": "Cardiac digital twin modeling",
-        "uz": "Cardiac digital twin modellashtirish"
-      },
-      "text": {
-        "en": "Patient-specific computational models that combine imaging, ECG and clinical data — moving prognosis from the population average to the individual patient.",
-        "uz": "Tasvirlash, EKG va klinik ma'lumotlarni birlashtiruvchi bemorga xos hisoblash modellari — prognozni populyatsiya o'rtachasidan alohida bemorga ko'chirish."
-      }
-    },
-    {
-      "title": {
-        "en": "Arrhythmia & conduction disease",
-        "uz": "Aritmiya va o'tkazuvchanlik kasalliklari"
-      },
-      "text": {
-        "en": "Clinical electrophysiology: accessory pathway syndromes, conduction block, and the interpretation of complex paced and pre-excited electrocardiograms.",
-        "uz": "Klinik elektrofiziologiya: qo'shimcha o'tkazuvchi yo'l sindromlari, o'tkazuvchanlik blokadasi hamda murakkab stimulyatsiyalangan va pre-eksitatsiyali EKG'larni talqin qilish."
-      }
-    },
-    {
-      "title": {
-        "en": "Secondary prevention & comorbidity",
-        "uz": "Ikkilamchi profilaktika va komorbidlik"
-      },
-      "text": {
-        "en": "Guideline-directed secondary prevention in coronary artery disease, and the influence of metabolic syndrome on cardiovascular outcomes.",
-        "uz": "Koronar arteriya kasalligida qo'llanmalarga asoslangan ikkilamchi profilaktika hamda metabolik sindromning yurak-qon tomir oqibatlariga ta'siri."
-      }
-    },
-    {
-      "title": {
-        "en": "Imaging & implantable technology",
-        "uz": "Tasvirlash va implant texnologiyalari"
-      },
-      "text": {
-        "en": "Multimodal and molecular imaging for predictive medicine, and biocompatible implantable antennas for the wireless transmission of cardiac diagnostic data.",
-        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash hamda yurak diagnostika ma'lumotlarini simsiz uzatish uchun biouyg'un implant antennalar."
-      }
-    }
-  ],
-  "projects": [
-    {
-      "title": {
-        "en": "LAVI-based prognostic modeling in left bundle branch block",
-        "uz": "Chap oyoqcha blokadasida LAVI asosidagi prognostik modellashtirish"
-      },
-      "role": {
-        "en": "Doctoral researcher (lead)",
-        "uz": "Doktorlik tadqiqotchisi (yetakchi)"
-      },
-      "period": {
-        "en": "2022 – present",
-        "uz": "2022 – hozirgacha"
-      },
-      "description": {
-        "en": "Developing a left atrial volume index (LAVI)-based model to risk-stratify patients with LBBB, integrated with cardiac digital twin technology. Core of the doctoral dissertation.",
-        "uz": "LBBB bemorlarini risk bo'yicha tabaqalashtirish uchun chap bo'lmacha hajm indeksi (LAVI) asosidagi modelni ishlab chiqish, cardiac digital twin texnologiyasi bilan integratsiyada. Doktorlik dissertatsiyasining o'zagi."
-      },
-      "partners": {
-        "en": "Samarkand State Medical University · Supervisor: F. N. Toshentayeva",
-        "uz": "Samarqand davlat tibbiyot universiteti · Rahbar: F. N. Toshentayeva"
-      },
-      "link": "",
-      "status": {
-        "en": "Active",
-        "uz": "Faol"
-      }
-    },
-    {
-      "title": {
-        "en": "ECG prediction of LV dysfunction after cardiac pacing",
-        "uz": "Yurak stimulyatsiyasidan keyin CHQ disfunksiyasini EKG orqali bashorat qilish"
-      },
-      "role": {
-        "en": "Lead investigator",
-        "uz": "Yetakchi tadqiqotchi"
-      },
-      "period": {
-        "en": "2021 – present",
-        "uz": "2021 – hozirgacha"
-      },
-      "description": {
-        "en": "Studying which electrocardiographic patterns after permanent pacemaker implantation predict a fall in left ventricular ejection fraction. Presented at the ESCI Annual Scientific Meeting (2024) and in earlier conference work (2021).",
-        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini o'rganish. ESCI yillik ilmiy anjumanida (2024) va oldingi konferensiya ishida (2021) taqdim etilgan."
-      },
-      "partners": {
-        "en": "Samarkand State Medical University; RSSPMC of Cardiology, Samarkand Branch",
-        "uz": "Samarqand davlat tibbiyot universiteti; RIKIATM kardiologiya, Samarqand filiali"
-      },
-      "link": "",
-      "status": {
-        "en": "Active",
-        "uz": "Faol"
-      }
-    },
-    {
-      "title": {
-        "en": "Virtual reality in cardiology education",
-        "uz": "Kardiologiya ta'limida virtual reallik"
-      },
-      "role": {
-        "en": "Co-investigator",
-        "uz": "Hammuallif-tadqiqotchi"
-      },
-      "period": {
-        "en": "2021 – present",
-        "uz": "2021 – hozirgacha"
-      },
-      "description": {
-        "en": "A pedagogical research line evaluating whether immersive VR improves medical students' performance in cardiology. Published in the Journal of Cardiorespiratory Research (2022) and presented at ESCI (2024).",
-        "uz": "Immersiv VR tibbiyot talabalarining kardiologiyadagi natijalarini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. Journal of Cardiorespiratory Research'da (2022) nashr etilgan va ESCI'da (2024) taqdim etilgan."
-      },
-      "partners": {
-        "en": "Samarkand State Medical University",
-        "uz": "Samarqand davlat tibbiyot universiteti"
-      },
-      "link": "",
-      "status": {
-        "en": "Active",
-        "uz": "Faol"
-      }
-    },
-    {
-      "title": {
-        "en": "Multimodal & molecular imaging for predictive medicine",
-        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash"
-      },
-      "role": {
-        "en": "Collaborator",
-        "uz": "Hamkor"
-      },
-      "period": {
-        "en": "2023 – 2025",
-        "uz": "2023 – 2025"
-      },
-      "description": {
-        "en": "A series of case reports and reviews on multimodal and molecular imaging and its role in predictive medicine, in collaboration with the Chungnam National University research group.",
-        "uz": "Multimodal va molekulyar tasvirlash hamda uning prognostik tibbiyotdagi o'rni bo'yicha klinik holat hisobotlari va sharhlar turkumi, Chungnam milliy universiteti tadqiqot guruhi bilan hamkorlikda."
-      },
-      "partners": {
-        "en": "Chungnam National University group; Journal of Medical Imaging (ScholarGen)",
-        "uz": "Chungnam milliy universiteti guruhi; Journal of Medical Imaging (ScholarGen)"
-      },
-      "link": "",
-      "status": {
-        "en": "Completed",
-        "uz": "Yakunlangan"
-      }
-    },
-    {
-      "title": {
-        "en": "Biocompatible implantable antenna for wireless cardiac data",
-        "uz": "Yurak ma'lumotlarini simsiz uzatish uchun biouyg'un implant antenna"
-      },
-      "role": {
-        "en": "Co-investigator",
-        "uz": "Hammuallif-tadqiqotchi"
-      },
-      "period": {
-        "en": "2024 – 2025",
-        "uz": "2024 – 2025"
-      },
-      "description": {
-        "en": "Interdisciplinary work on a biocompatible dual-band implantable antenna with SAR-reduction techniques for the wireless transmission of cardiac and neural diagnostic data.",
-        "uz": "Yurak va nerv diagnostika ma'lumotlarini simsiz uzatish uchun SAR'ni kamaytirish usullariga ega biouyg'un ikki diapazonli implant antenna bo'yicha fanlararo ish."
-      },
-      "partners": {
-        "en": "National Journal of Antennas and Propagation (2025)",
-        "uz": "National Journal of Antennas and Propagation (2025)"
-      },
-      "link": "https://www.antennajournal.com/index.php/antenna/article/view/262",
-      "status": {
-        "en": "Completed",
-        "uz": "Yakunlangan"
-      }
-    }
-  ],
   "publications": [
     {
       "type": "article",
@@ -452,6 +214,37 @@
       "source": "manual"
     }
   ],
+  "profile": {
+    "name": "Muzaffar Annaev",
+    "location": {
+      "en": "Samarkand, Uzbekistan",
+      "uz": "Samarqand, O'zbekiston"
+    },
+    "role": {
+      "en": "Dean, Faculty of Medicine — Kimyo International University in Tashkent, Samarkand Branch",
+      "uz": "Dekan, Tibbiyot fakulteti — Kimyo International University in Tashkent, Samarqand filiali"
+    },
+    "institution": {
+      "en": "Faculty of Medicine, Kimyo International University in Tashkent — Samarkand Branch, Samarkand, Uzbekistan",
+      "uz": "Tibbiyot fakulteti, Kimyo International University in Tashkent — Samarqand filiali, Samarqand, O'zbekiston"
+    },
+    "title": {
+      "en": "MD, MSc — Cardiologist · PhD candidate in Cardiology",
+      "uz": "MD, MSc — Kardiolog · Kardiologiya bo'yicha PhD tadqiqotchisi"
+    },
+    "links": {
+      "orcid": "https://orcid.org/0000-0002-8034-4561",
+      "scholar": "https://scholar.google.com/citations?user=h9HOdbkAAAAJ",
+      "researchgate": "https://www.researchgate.net/profile/Muzaffar-Annaev",
+      "linkedin": "https://www.linkedin.com/in/muzaffar-annaev/"
+    },
+    "lede": {
+      "en": "I work at the intersection of clinical electrophysiology and predictive cardiology: how the surface ECG and left atrial remodeling can be used to anticipate left ventricular dysfunction in patients with cardiac pacing and left bundle branch block — and how cardiac digital twin modeling can make that prediction patient-specific.",
+      "uz": "Men klinik elektrofiziologiya va prognostik kardiologiya kesishmasida ishlayman: yurak stimulyatsiyasi va chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda yuzaki EKG va chap bo'lmacha remodellanishi orqali chap qorincha disfunksiyasini oldindan bashorat qilish — hamda cardiac digital twin modellashtirish bu bashoratni har bir bemorga xoslashtirish."
+    },
+    "portrait": "",
+    "email": "muzaffarphy@outlook.com"
+  },
   "teaching": {
     "intro": {
       "en": "As Dean I hold academic and administrative responsibility for the faculty's medical education directions: curriculum architecture, quality assurance, staff development, and preparation for national and international accreditation.",
@@ -500,6 +293,20 @@
       }
     ]
   },
+  "about": [
+    {
+      "en": "I am a cardiologist and academic leader based in Samarkand, Uzbekistan. Since August 2024, I have served as Dean of the Faculty of Medicine at Kimyo International University in Tashkent, Samarkand Branch, where I am responsible for the design, quality and accreditation-readiness of the medical curriculum. Before that, I spent three years as an Assistant Professor at Samarkand State Medical University while practicing as a cardiologist at the Samarkand Regional Branch of the Republican Specialized Scientific & Practical Medical Center of Cardiology.",
+      "uz": "2024-yil avgust oyidan buyon Toshkent shahridagi Kimyo xalqaro universiteti Samarqand filialida tibbiyot fakulteti dekani lavozimida faoliyat yuritib kelmoqdaman.  Bu yerda ta'lim yo'nalishi rahbari sifatida, tibbiyotda o‘quv dasturlarini ishlab chiqish, ularning sifati va akkreditatsiyaga tayyorligi uchun mas’ulman. Bungacha uch yil davomida Samarqand davlat tibbiyot universitetida professor-o'qituvchi lavozimida ishlaganman va Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi Samarqand viloyati filialida kardiolog-shifokor bo‘lib faoliyat yuritganman."
+    },
+    {
+      "en": "My training has been international. I completed an MSc in Medicine (Cardiology) at Chungnam National University in Daejeon, South Korea, including a clinical fellowship in interventional cardiology in the catheterisation laboratory of Chungnam National University Hospital, supported by three consecutive research scholarships. I am also a certified expert in accreditation and quality assurance, trained at the Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care in Almaty.",
+      "uz": "Tayyorgarligim xalqaro bo'lgan. Janubiy Koreyaning Dejon shahridagi Chungnam milliy universitetida Tibbiyot (Kardiologiya) bo'yicha magistratura (MSc) ni tamomladim, jumladan Chungnam National University Hospital katetеrizatsiya laboratoriyasida interventsion kardiologiya bo'yicha klinik fellowship o'tadim; buni ketma-ket uchta ilmiy stipendiya qo'llab-quvvatladi. Shuningdek, Olmaotadagi Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazida tayyorlangan sertifikatlangan akkreditatsiya va sifat kafolati eksperti hisoblanaman."
+    },
+    {
+      "en": "I am currently completing a PhD (Falsafa doktori, specialty 14.00.06) at Samarkand State Medical University on LAVI-based prognostic modeling in patients with left bundle branch block, integrated with cardiac digital twin technology.",
+      "uz": "Hozirda Samarqand davlat tibbiyot universitetida PhD (Falsafa doktori, 14.00.06 ixtisosligi) ni yakunlamoqdaman — mavzu: chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda LAVI asosidagi prognostik modellashtirish, cardiac digital twin texnologiyasi bilan integratsiyada."
+    }
+  ],
   "cv": {
     "appointments": [
       {
@@ -637,15 +444,15 @@
         },
         "what": {
           "en": "Certified Expert, Accreditation & Quality Assurance",
-          "uz": "Sertifikatlangan ekspert, Akkreditatsiya va sifat kafolati"
+          "uz": "Tibbiy ta'limda akkreditatsiya va sifat kafolati sohasida ekspert sertifikati"
         },
         "where": {
           "en": "Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care, Almaty",
           "uz": "Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazi, Olmaota"
         },
         "detail": {
-          "en": "",
-          "uz": ""
+          "en": "The Eurasian Center for Accreditation and Quality Assurance in Higher Education and Health Care (ECAQA) is an independent international accreditation agency specializing in quality assurance and external evaluation for medical and healthcare education programs, as well as general higher education institutions.",
+          "uz": "Eurasian Centre for Accreditation and Quality Assurance in Higher Education and Health Care (ECAQA) — oliy ta'lim va sog'liqni saqlash sohasida ta'lim sifatini baholash va akkreditatsiyadan o'tkazishga ixtisoslashgan xalqaro darajadagi mustaqil agentlikdir."
         }
       },
       {
@@ -662,8 +469,8 @@
           "uz": "Samarqand davlat tibbiyot universiteti"
         },
         "detail": {
-          "en": "",
-          "uz": ""
+          "en": "In 2018, I graduated from Samarkand State Medical University, majoring in General Medicine, with the qualification of Medical Doctor.",
+          "uz": "2018-yilda Samarqand davlat tibbiyot universitetida davolash ishi yo'nalishini tamomladim"
         }
       }
     ],
@@ -682,8 +489,8 @@
           "uz": "Chungnam milliy universiteti, Janubiy Koreya"
         },
         "detail": {
-          "en": "",
-          "uz": ""
+          "en": "I have been awarded the Research Encouragement Scholarship at Chungnam National University.",
+          "uz": "Men Chungnam Milliy Universitetidagi ilmiy faoliyatim uchun tadqiqotni rag'batlantirish stipendiyasini qo'lga kiritdim."
         }
       },
       {
@@ -700,8 +507,8 @@
           "uz": "Samsung Dream Scholarship jamg'armasi, Janubiy Koreya"
         },
         "detail": {
-          "en": "",
-          "uz": ""
+          "en": "The Global Hope Scholarship is a prestigious international financial aid program funded by the Samsung Dream Scholarship Foundation in South Korea, designed to support talented students from developing nations pursuing higher education.",
+          "uz": "Global Hope Scholarship — Janubiy Koreyadagi Samsung Dream Scholarship Foundation (Samsung Orzu Stipendiyasi Jamg'armasi) tomonidan rivojlanayotgan mamlakatlardan kelgan iqtidorli talabalarni qo'llab-quvvatlash uchun ajratiladigan nufuzli xalqaro stipendiya dasturidir.\n\nDasturning asosiy maqsadi — moliyaviy yordamga muhtoj, lekin akademik ko'rsatkichlari yuqori bo'lgan talabalarni o'z mamlakatlari va global jamiyat rivojiga hissa qo meyoridagi yetakchi mutassislar qilib tayyorlashdir."
         }
       },
       {
@@ -711,15 +518,15 @@
         },
         "what": {
           "en": "Research Excellence Scholarship",
-          "uz": "Tadqiqotdagi mukammallik stipendiyasi"
+          "uz": "Namunali ilmiy faoliyat uchun stipendiyasi"
         },
         "where": {
           "en": "Chungnam National University, South Korea",
           "uz": "Chungnam milliy universiteti, Janubiy Koreya"
         },
         "detail": {
-          "en": "",
-          "uz": ""
+          "en": "CNU has a grant and scholarship system for Master's degree and PhD students",
+          "uz": "CNU muhandislik, tabiiy fanlar, tibbiyot va IT yo'nalishlarida o'qiydigan magistr va doktorantlar uchun maxsus ilmiy grant va stipendiyalr taqdim etadi"
         }
       }
     ],
@@ -818,10 +625,203 @@
       }
     }
   ],
-  "contact": {
-    "note": {
-      "en": "I welcome collaboration on cardiac pacing outcomes, LBBB risk stratification, digital twin modeling, and on international partnerships in medical education.",
-      "uz": "Yurak stimulyatsiyasi natijalari, LBBB risk tabaqalashtirish, digital twin modellashtirish hamda tibbiy ta'limda xalqaro hamkorlik bo'yicha hamkorlikni mamnuniyat bilan qabul qilaman."
+  "projects": [
+    {
+      "title": {
+        "en": "LAVI-based prognostic modeling in left bundle branch block",
+        "uz": "Chap oyoqcha blokadasida LAVI asosidagi prognostik modellashtirish"
+      },
+      "role": {
+        "en": "Doctoral researcher (lead)",
+        "uz": "Doktorlik tadqiqotchisi (yetakchi)"
+      },
+      "period": {
+        "en": "2022 – present",
+        "uz": "2022 – hozirgacha"
+      },
+      "description": {
+        "en": "Developing a left atrial volume index (LAVI)-based model to risk-stratify patients with LBBB, integrated with cardiac digital twin technology. Core of the doctoral dissertation.",
+        "uz": "LBBB bemorlarini risk bo'yicha tabaqalashtirish uchun chap bo'lmacha hajm indeksi (LAVI) asosidagi modelni ishlab chiqish, cardiac digital twin texnologiyasi bilan integratsiyada. Doktorlik dissertatsiyasining o'zagi."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University · Supervisor: F. N. Toshentayeva",
+        "uz": "Samarqand davlat tibbiyot universiteti · Rahbar: F. N. Toshentayeva"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "ECG prediction of LV dysfunction after cardiac pacing",
+        "uz": "Yurak stimulyatsiyasidan keyin CHQ disfunksiyasini EKG orqali bashorat qilish"
+      },
+      "role": {
+        "en": "Lead investigator",
+        "uz": "Yetakchi tadqiqotchi"
+      },
+      "period": {
+        "en": "2021 – present",
+        "uz": "2021 – hozirgacha"
+      },
+      "description": {
+        "en": "Studying which electrocardiographic patterns after permanent pacemaker implantation predict a fall in left ventricular ejection fraction. Presented at the ESCI Annual Scientific Meeting (2024) and in earlier conference work (2021).",
+        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini o'rganish. ESCI yillik ilmiy anjumanida (2024) va oldingi konferensiya ishida (2021) taqdim etilgan."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University; RSSPMC of Cardiology, Samarkand Branch",
+        "uz": "Samarqand davlat tibbiyot universiteti; RIKIATM kardiologiya, Samarqand filiali"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "Virtual reality in cardiology education",
+        "uz": "Kardiologiya ta'limida virtual reallik"
+      },
+      "role": {
+        "en": "Co-investigator",
+        "uz": "Hammuallif-tadqiqotchi"
+      },
+      "period": {
+        "en": "2021 – present",
+        "uz": "2021 – hozirgacha"
+      },
+      "description": {
+        "en": "A pedagogical research line evaluating whether immersive VR improves medical students' performance in cardiology. Published in the Journal of Cardiorespiratory Research (2022) and presented at ESCI (2024).",
+        "uz": "Immersiv VR tibbiyot talabalarining kardiologiyadagi natijalarini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. Journal of Cardiorespiratory Research'da (2022) nashr etilgan va ESCI'da (2024) taqdim etilgan."
+      },
+      "partners": {
+        "en": "Samarkand State Medical University",
+        "uz": "Samarqand davlat tibbiyot universiteti"
+      },
+      "link": "",
+      "status": {
+        "en": "Active",
+        "uz": "Faol"
+      }
+    },
+    {
+      "title": {
+        "en": "Multimodal & molecular imaging for predictive medicine",
+        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash"
+      },
+      "role": {
+        "en": "Collaborator",
+        "uz": "Hamkor"
+      },
+      "period": {
+        "en": "2023 – 2025",
+        "uz": "2023 – 2025"
+      },
+      "description": {
+        "en": "A series of case reports and reviews on multimodal and molecular imaging and its role in predictive medicine, in collaboration with the Chungnam National University research group.",
+        "uz": "Multimodal va molekulyar tasvirlash hamda uning prognostik tibbiyotdagi o'rni bo'yicha klinik holat hisobotlari va sharhlar turkumi, Chungnam milliy universiteti tadqiqot guruhi bilan hamkorlikda."
+      },
+      "partners": {
+        "en": "Chungnam National University group; Journal of Medical Imaging (ScholarGen)",
+        "uz": "Chungnam milliy universiteti guruhi; Journal of Medical Imaging (ScholarGen)"
+      },
+      "link": "",
+      "status": {
+        "en": "Completed",
+        "uz": "Yakunlangan"
+      }
+    },
+    {
+      "title": {
+        "en": "Biocompatible implantable antenna for wireless cardiac data",
+        "uz": "Yurak ma'lumotlarini simsiz uzatish uchun biouyg'un implant antenna"
+      },
+      "role": {
+        "en": "Co-investigator",
+        "uz": "Hammuallif-tadqiqotchi"
+      },
+      "period": {
+        "en": "2024 – 2025",
+        "uz": "2024 – 2025"
+      },
+      "description": {
+        "en": "Interdisciplinary work on a biocompatible dual-band implantable antenna with SAR-reduction techniques for the wireless transmission of cardiac and neural diagnostic data.",
+        "uz": "Yurak va nerv diagnostika ma'lumotlarini simsiz uzatish uchun SAR'ni kamaytirish usullariga ega biouyg'un ikki diapazonli implant antenna bo'yicha fanlararo ish."
+      },
+      "partners": {
+        "en": "National Journal of Antennas and Propagation (2025)",
+        "uz": "National Journal of Antennas and Propagation (2025)"
+      },
+      "link": "https://www.antennajournal.com/index.php/antenna/article/view/262",
+      "status": {
+        "en": "Completed",
+        "uz": "Yakunlangan"
+      }
     }
-  }
+  ],
+  "research": [
+    {
+      "title": {
+        "en": "ECG prediction of LV dysfunction in cardiac pacing",
+        "uz": "Yurak stimulyatsiyasida CHQ disfunksiyasini EKG orqali bashorat qilish"
+      },
+      "text": {
+        "en": "Identifying which electrocardiographic patterns after permanent pacemaker implantation predict a decline in left ventricular ejection fraction — so that patients can be moved early to physiological or resynchronisation pacing.",
+        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini aniqlash — bemorlarni erta bosqichda fiziologik yoki resinxronizatsiya stimulyatsiyasiga o'tkazish uchun."
+      }
+    },
+    {
+      "title": {
+        "en": "LAVI as a prognostic marker in LBBB",
+        "uz": "LBBB'da LAVI prognostik marker sifatida"
+      },
+      "text": {
+        "en": "The left atrial volume index as an integrative marker of chronic filling pressure, and its value in risk-stratifying patients with left bundle branch block. This is the core of my doctoral work.",
+        "uz": "Chap bo'lmacha hajm indeksi (LAVI) surunkali to'lish bosimining integrativ markeri sifatida va uning LBBB bemorlarini risk bo'yicha tabaqalashtirishdagi ahamiyati. Bu — doktorlik ishimning o'zagi."
+      }
+    },
+    {
+      "title": {
+        "en": "Cardiac digital twin modeling",
+        "uz": "Cardiac digital twin modellashtirish"
+      },
+      "text": {
+        "en": "Patient-specific computational models that combine imaging, ECG and clinical data — moving prognosis from the population average to the individual patient.",
+        "uz": "Tasvirlash, EKG va klinik ma'lumotlarni birlashtiruvchi bemorga xos hisoblash modellari — prognozni populyatsiya o'rtachasidan alohida bemorga ko'chirish."
+      }
+    },
+    {
+      "title": {
+        "en": "Arrhythmia & conduction disease",
+        "uz": "Aritmiya va o'tkazuvchanlik kasalliklari"
+      },
+      "text": {
+        "en": "Clinical electrophysiology: accessory pathway syndromes, conduction block, and the interpretation of complex paced and pre-excited electrocardiograms.",
+        "uz": "Klinik elektrofiziologiya: qo'shimcha o'tkazuvchi yo'l sindromlari, o'tkazuvchanlik blokadasi hamda murakkab stimulyatsiyalangan va pre-eksitatsiyali EKG'larni talqin qilish."
+      }
+    },
+    {
+      "title": {
+        "en": "Secondary prevention & comorbidity",
+        "uz": "Ikkilamchi profilaktika va komorbidlik"
+      },
+      "text": {
+        "en": "Guideline-directed secondary prevention in coronary artery disease, and the influence of metabolic syndrome on cardiovascular outcomes.",
+        "uz": "Koronar arteriya kasalligida qo'llanmalarga asoslangan ikkilamchi profilaktika hamda metabolik sindromning yurak-qon tomir oqibatlariga ta'siri."
+      }
+    },
+    {
+      "title": {
+        "en": "Imaging & implantable technology",
+        "uz": "Tasvirlash va implant texnologiyalari"
+      },
+      "text": {
+        "en": "Multimodal and molecular imaging for predictive medicine, and biocompatible implantable antennas for the wireless transmission of cardiac diagnostic data.",
+        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash hamda yurak diagnostika ma'lumotlarini simsiz uzatish uchun biouyg'un implant antennalar."
+      }
+    }
+  ]
 }
