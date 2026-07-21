@@ -646,16 +646,16 @@
         "uz": "Doktorlik tadqiqotchisi (yetakchi)"
       },
       "period": {
-        "en": "2022 – present",
-        "uz": "2022 – hozirgacha"
+        "en": "2025 – present",
+        "uz": "2025 – hozirgacha"
       },
       "description": {
         "en": "Developing a left atrial volume index (LAVI)-based model to risk-stratify patients with LBBB, integrated with cardiac digital twin technology. Core of the doctoral dissertation.",
-        "uz": "LBBB bemorlarini risk bo'yicha tabaqalashtirish uchun chap bo'lmacha hajm indeksi (LAVI) asosidagi modelni ishlab chiqish, cardiac digital twin texnologiyasi bilan integratsiyada. Doktorlik dissertatsiyasining o'zagi."
+        "uz": "LBBB bemorlarini risk bo'yicha tabaqalashtirish uchun chap bo'lmacha hajm indeksi (LAVI) asosidagi modelni ishlab chiqish, cardiac digital twin texnologiyasi bilan integratsiyada. "
       },
       "partners": {
-        "en": "Samarkand State Medical University · Supervisor: F. N. Toshentayeva",
-        "uz": "Samarqand davlat tibbiyot universiteti · Rahbar: F. N. Toshentayeva"
+        "en": "Kimyo International University in Tashkent · Supervisor: O. Sharipova, E. N. Tashkenbaeva",
+        "uz": "Toshkent Kimyo  xalqaro universitet. Ilmiy rahbar: O.A.Sharipova, E.N.Tashkenbaeva"
       },
       "link": "",
       "status": {
@@ -700,12 +700,12 @@
         "uz": "Hammuallif-tadqiqotchi"
       },
       "period": {
-        "en": "2021 – present",
-        "uz": "2021 – hozirgacha"
+        "en": "2021 – 2022",
+        "uz": "2021 – 2022"
       },
       "description": {
         "en": "A pedagogical research line evaluating whether immersive VR improves medical students' performance in cardiology. Published in the Journal of Cardiorespiratory Research (2022) and presented at ESCI (2024).",
-        "uz": "Immersiv VR tibbiyot talabalarining kardiologiyadagi natijalarini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. Journal of Cardiorespiratory Research'da (2022) nashr etilgan va ESCI'da (2024) taqdim etilgan."
+        "uz": "Immersiv VR tibbiyot talabalarining fanlarni o'zlashtirishiga ta'sirini baholashga bag'ishlangan tadqiqot. Journal of Cardiorespiratory Research'da (2022) nashr etilgan va ESCI'da (2024) taqdim etilgan."
       },
       "partners": {
         "en": "Samarkand State Medical University",
@@ -713,8 +713,8 @@
       },
       "link": "",
       "status": {
-        "en": "Active",
-        "uz": "Faol"
+        "en": "Completed",
+        "uz": "Tugallangan"
       }
     },
     {
