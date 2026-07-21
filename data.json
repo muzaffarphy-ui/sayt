@@ -746,26 +746,26 @@
     },
     {
       "title": {
-        "en": "Biocompatible implantable antenna for wireless cardiac data",
-        "uz": "Yurak ma'lumotlarini simsiz uzatish uchun biouyg'un implant antenna"
+        "en": "EuroAspire VI",
+        "uz": "EuroAspire VI"
       },
       "role": {
-        "en": "Co-investigator",
-        "uz": "Hammuallif-tadqiqotchi"
+        "en": "Investigator",
+        "uz": "Tadqiqotchi"
       },
       "period": {
-        "en": "2024 – 2025",
-        "uz": "2024 – 2025"
+        "en": "2023 – 2025",
+        "uz": "2023 – 2025"
       },
       "description": {
-        "en": "Interdisciplinary work on a biocompatible dual-band implantable antenna with SAR-reduction techniques for the wireless transmission of cardiac and neural diagnostic data.",
-        "uz": "Yurak va nerv diagnostika ma'lumotlarini simsiz uzatish uchun SAR'ni kamaytirish usullariga ega biouyg'un ikki diapazonli implant antenna bo'yicha fanlararo ish."
+        "en": "The EUROASPIRE programme was started following the first Joint European Societies Recommendations on Prevention of Coronary Heart Disease in Clinical Practice in 1994, the very first ESC Clinical Practice Guideline, and the objective of this first survey in nine European countries in 1995-96 was to document the status of secondary prevention practice in the context of these new recommendations.\n\nThe EUROASPIRE survey will be expanded to investigate the cardiometabolic and renal continuum in both secondary and primary cardiovascular disease prevention in 2023-2025 under the auspices of the European Society of Cardiology, Global Registries And Surveys Programme (GRASP). As in the previous EUROASPIRE surveys this survey will be focused on hospital patients with CHD, with and without diabetes mellitus, and apparently healthy individuals in primary care at high risk (hypertension, dyslipidaemia, diabetes) of developing cardiovascular disease (CVD).",
+        "uz": "EUROASPIRE dasturi 1994-yilda Yevropa Jamiyatlarining Klinik Amaliyotda Koronar Yurak Kasalliklarining Oldini Olish bo'yicha Birinchi Qo'shma Tavsiyalaridan so'ng, birinchi ESC Klinik Amaliyot Qo'llanmasi asosida boshlangan va 1995-96 yillarda to'qqizta Yevropa davlatida o'tkazilgan ushbu birinchi so'rovning maqsadi ushbu yangi tavsiyalar kontekstida ikkilamchi profilaktika amaliyotining holatini hujjatlashtirish edi.\n\nUshbu EUROASPIRE so'rovnomasi 2023-2025 yillarda Yevropa Kardiologiya Jamiyati, Global Registrlar va So'rovlar Dasturi (GRASP) homiyligida ikkilamchi va birlamchi yurak-qon tomir kasalliklarining oldini olishda kardiometabolik va buyrak kontinuumini o'rganish uchun kengaytiriladi. Avvalgi EUROASPIRE so'rovlarida bo'lgani kabi, ushbu so'rov yurak-qon tomir kasalliklari bilan kasallangan, diabet bilan og'rigan va bo'lmagan kasalxona bemorlariga va yurak-qon tomir kasalliklari (YQK) rivojlanish xavfi yuqori bo'lgan (gipertoniya, dislipidemiya, diabet) birlamchi tibbiy yordamdagi sog'lom shaxslarga qaratilgan bo'ladi."
       },
       "partners": {
-        "en": "National Journal of Antennas and Propagation (2025)",
-        "uz": "National Journal of Antennas and Propagation (2025)"
+        "en": " European Society of Cardiology",
+        "uz": "Yevropa kardiologlari jamiyati"
       },
-      "link": "https://www.antennajournal.com/index.php/antenna/article/view/262",
+      "link": "https://www.escardio.org/data-science/data-collection/patient-registries-and-observational-data/euroaspire-vi/",
       "status": {
         "en": "Completed",
         "uz": "Yakunlangan"
