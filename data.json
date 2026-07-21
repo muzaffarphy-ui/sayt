@@ -248,7 +248,7 @@
   "teaching": {
     "intro": {
       "en": "As Dean I hold academic and administrative responsibility for the faculty's medical education directions: curriculum architecture, quality assurance, staff development, and preparation for national and international accreditation.",
-      "uz": "Dekan sifatida fakultetning tibbiy ta'lim yo'nalishlari uchun akademik va ma'muriy javobgarlikni zimmamda olganman: o'quv dasturi arxitekturasi, sifat kafolati, kadrlar rivoji hamda milliy va xalqaro akkreditatsiyaga tayyorgarlik."
+      "uz": "Dekan sifatida fakultetning tibbiy ta'lim yo'nalishlari uchun akademik va ma'muriy javobgarlikka mas'ulman: o'quv dasturi arxitekturasi, sifat kafolati, kadrlar rivoji hamda milliy va xalqaro akkreditatsiyaga tayyorgarlik."
     },
     "cards": [
       {
@@ -263,12 +263,12 @@
       },
       {
         "title": {
-          "en": "Virtual reality in cardiology education",
-          "uz": "Kardiologiya ta'limida virtual reallik"
+          "en": "International collaboration",
+          "uz": "Xalqaro hamkorlik"
         },
         "text": {
-          "en": "A pedagogical research line asking whether immersive VR improves student performance. Begun under COVID-19 conditions, it is now a standing part of how we teach clinical skills; published in the Journal of Cardiorespiratory Research and presented at ESCI.",
-          "uz": "Immersiv VR talabalar natijasini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. COVID-19 sharoitida boshlangan, hozir klinik ko'nikmalarni o'qitishning doimiy qismi; Journal of Cardiorespiratory Research'da nashr etilgan va ESCI'da taqdim etilgan."
+          "en": "Advocacy for research capacity and international partnership in Uzbek medical education — including work with Osmosis / Raise the Line and continuing ties with Chungnam National University, South Korea.",
+          "uz": "O'zbek tibbiy ta'limida tadqiqot salohiyati va xalqaro hamkorlikni targ'ib qilish — jumladan Osmosis / Raise the Line bilan ish va Chungnam milliy universiteti (Janubiy Koreya) bilan davomiy aloqalar."
         }
       },
       {
@@ -283,12 +283,12 @@
       },
       {
         "title": {
-          "en": "International collaboration",
-          "uz": "Xalqaro hamkorlik"
+          "en": "Virtual reality in cardiology education",
+          "uz": "Kardiologiya ta'limida virtual reallik"
         },
         "text": {
-          "en": "Advocacy for research capacity and international partnership in Uzbek medical education — including work with Osmosis / Raise the Line and continuing ties with Chungnam National University, South Korea.",
-          "uz": "O'zbek tibbiy ta'limida tadqiqot salohiyati va xalqaro hamkorlikni targ'ib qilish — jumladan Osmosis / Raise the Line bilan ish va Chungnam milliy universiteti (Janubiy Koreya) bilan davomiy aloqalar."
+          "en": "A pedagogical research line asking whether immersive VR improves student performance. Begun under COVID-19 conditions, it is now a standing part of how we teach clinical skills; published in the Journal of Cardiorespiratory Research and presented at ESCI.",
+          "uz": "Immersiv VR talabalar natijasini yaxshilaydimi degan pedagogik tadqiqot yo'nalishi. COVID-19 sharoitida boshlangan, hozir klinik ko'nikmalarni o'qitishning doimiy qismi; Journal of Cardiorespiratory Research'da nashr etilgan va ESCI'da taqdim etilgan."
         }
       }
     ]
@@ -533,6 +533,16 @@
     "skills": [
       {
         "label": {
+          "en": "Academic",
+          "uz": "Akademik"
+        },
+        "value": {
+          "en": "Curriculum design; module organisation; conference presentation (talks, posters, workshops).",
+          "uz": "O'quv dasturi dizayni; modul tashkil etish; konferensiya taqdimotlari (ma'ruza, poster, seminar)."
+        }
+      },
+      {
+        "label": {
           "en": "Clinical",
           "uz": "Klinik"
         },
@@ -549,16 +559,6 @@
         "value": {
           "en": "Statistical analysis (SPSS); medical data analysis and reporting; cardiac digital twin modeling.",
           "uz": "Statistik tahlil (SPSS); tibbiy ma'lumotlar tahlili va hisobot; cardiac digital twin modellashtirish."
-        }
-      },
-      {
-        "label": {
-          "en": "Academic",
-          "uz": "Akademik"
-        },
-        "value": {
-          "en": "Curriculum design; module organisation; conference presentation (talks, posters, workshops).",
-          "uz": "O'quv dasturi dizayni; modul tashkil etish; konferensiya taqdimotlari (ma'ruza, poster, seminar)."
         }
       },
       {
@@ -665,6 +665,33 @@
     },
     {
       "title": {
+        "en": "EuroAspire VI",
+        "uz": "EuroAspire VI"
+      },
+      "role": {
+        "en": "Investigator",
+        "uz": "Tadqiqotchi"
+      },
+      "period": {
+        "en": "2023 – 2025",
+        "uz": "2023 – 2025"
+      },
+      "description": {
+        "en": "The EUROASPIRE programme was started following the first Joint European Societies Recommendations on Prevention of Coronary Heart Disease in Clinical Practice in 1994, the very first ESC Clinical Practice Guideline, and the objective of this first survey in nine European countries in 1995-96 was to document the status of secondary prevention practice in the context of these new recommendations.\n\nThe EUROASPIRE survey will be expanded to investigate the cardiometabolic and renal continuum in both secondary and primary cardiovascular disease prevention in 2023-2025 under the auspices of the European Society of Cardiology, Global Registries And Surveys Programme (GRASP). As in the previous EUROASPIRE surveys this survey will be focused on hospital patients with CHD, with and without diabetes mellitus, and apparently healthy individuals in primary care at high risk (hypertension, dyslipidaemia, diabetes) of developing cardiovascular disease (CVD).",
+        "uz": "EUROASPIRE dasturi 1994-yilda Yevropa Jamiyatlarining Klinik Amaliyotda Koronar Yurak Kasalliklarining Oldini Olish bo'yicha Birinchi Qo'shma Tavsiyalaridan so'ng, birinchi ESC Klinik Amaliyot Qo'llanmasi asosida boshlangan va 1995-96 yillarda to'qqizta Yevropa davlatida o'tkazilgan ushbu birinchi so'rovning maqsadi ushbu yangi tavsiyalar kontekstida ikkilamchi profilaktika amaliyotining holatini hujjatlashtirish edi.\n\nUshbu EUROASPIRE so'rovnomasi 2023-2025 yillarda Yevropa Kardiologiya Jamiyati, Global Registrlar va So'rovlar Dasturi (GRASP) homiyligida ikkilamchi va birlamchi yurak-qon tomir kasalliklarining oldini olishda kardiometabolik va buyrak kontinuumini o'rganish uchun kengaytiriladi. Avvalgi EUROASPIRE so'rovlarida bo'lgani kabi, ushbu so'rov yurak-qon tomir kasalliklari bilan kasallangan, diabet bilan og'rigan va bo'lmagan kasalxona bemorlariga va yurak-qon tomir kasalliklari (YQK) rivojlanish xavfi yuqori bo'lgan (gipertoniya, dislipidemiya, diabet) birlamchi tibbiy yordamdagi sog'lom shaxslarga qaratilgan bo'ladi."
+      },
+      "partners": {
+        "en": " European Society of Cardiology",
+        "uz": "Yevropa kardiologlari jamiyati"
+      },
+      "link": "https://www.escardio.org/data-science/data-collection/patient-registries-and-observational-data/euroaspire-vi/",
+      "status": {
+        "en": "Completed",
+        "uz": "Yakunlangan"
+      }
+    },
+    {
+      "title": {
         "en": "ECG prediction of LV dysfunction after cardiac pacing",
         "uz": "Yurak stimulyatsiyasidan keyin CHQ disfunksiyasini EKG orqali bashorat qilish"
       },
@@ -715,60 +742,6 @@
       "status": {
         "en": "Completed",
         "uz": "Tugallangan"
-      }
-    },
-    {
-      "title": {
-        "en": "Multimodal & molecular imaging for predictive medicine",
-        "uz": "Prognostik tibbiyot uchun multimodal va molekulyar tasvirlash"
-      },
-      "role": {
-        "en": "Collaborator",
-        "uz": "Hamkor"
-      },
-      "period": {
-        "en": "2023 – 2025",
-        "uz": "2023 – 2025"
-      },
-      "description": {
-        "en": "A series of case reports and reviews on multimodal and molecular imaging and its role in predictive medicine, in collaboration with the Chungnam National University research group.",
-        "uz": "Multimodal va molekulyar tasvirlash hamda uning prognostik tibbiyotdagi o'rni bo'yicha klinik holat hisobotlari va sharhlar turkumi, Chungnam milliy universiteti tadqiqot guruhi bilan hamkorlikda."
-      },
-      "partners": {
-        "en": "Chungnam National University group; Journal of Medical Imaging (ScholarGen)",
-        "uz": "Chungnam milliy universiteti guruhi; Journal of Medical Imaging (ScholarGen)"
-      },
-      "link": "",
-      "status": {
-        "en": "Completed",
-        "uz": "Yakunlangan"
-      }
-    },
-    {
-      "title": {
-        "en": "EuroAspire VI",
-        "uz": "EuroAspire VI"
-      },
-      "role": {
-        "en": "Investigator",
-        "uz": "Tadqiqotchi"
-      },
-      "period": {
-        "en": "2023 – 2025",
-        "uz": "2023 – 2025"
-      },
-      "description": {
-        "en": "The EUROASPIRE programme was started following the first Joint European Societies Recommendations on Prevention of Coronary Heart Disease in Clinical Practice in 1994, the very first ESC Clinical Practice Guideline, and the objective of this first survey in nine European countries in 1995-96 was to document the status of secondary prevention practice in the context of these new recommendations.\n\nThe EUROASPIRE survey will be expanded to investigate the cardiometabolic and renal continuum in both secondary and primary cardiovascular disease prevention in 2023-2025 under the auspices of the European Society of Cardiology, Global Registries And Surveys Programme (GRASP). As in the previous EUROASPIRE surveys this survey will be focused on hospital patients with CHD, with and without diabetes mellitus, and apparently healthy individuals in primary care at high risk (hypertension, dyslipidaemia, diabetes) of developing cardiovascular disease (CVD).",
-        "uz": "EUROASPIRE dasturi 1994-yilda Yevropa Jamiyatlarining Klinik Amaliyotda Koronar Yurak Kasalliklarining Oldini Olish bo'yicha Birinchi Qo'shma Tavsiyalaridan so'ng, birinchi ESC Klinik Amaliyot Qo'llanmasi asosida boshlangan va 1995-96 yillarda to'qqizta Yevropa davlatida o'tkazilgan ushbu birinchi so'rovning maqsadi ushbu yangi tavsiyalar kontekstida ikkilamchi profilaktika amaliyotining holatini hujjatlashtirish edi.\n\nUshbu EUROASPIRE so'rovnomasi 2023-2025 yillarda Yevropa Kardiologiya Jamiyati, Global Registrlar va So'rovlar Dasturi (GRASP) homiyligida ikkilamchi va birlamchi yurak-qon tomir kasalliklarining oldini olishda kardiometabolik va buyrak kontinuumini o'rganish uchun kengaytiriladi. Avvalgi EUROASPIRE so'rovlarida bo'lgani kabi, ushbu so'rov yurak-qon tomir kasalliklari bilan kasallangan, diabet bilan og'rigan va bo'lmagan kasalxona bemorlariga va yurak-qon tomir kasalliklari (YQK) rivojlanish xavfi yuqori bo'lgan (gipertoniya, dislipidemiya, diabet) birlamchi tibbiy yordamdagi sog'lom shaxslarga qaratilgan bo'ladi."
-      },
-      "partners": {
-        "en": " European Society of Cardiology",
-        "uz": "Yevropa kardiologlari jamiyati"
-      },
-      "link": "https://www.escardio.org/data-science/data-collection/patient-registries-and-observational-data/euroaspire-vi/",
-      "status": {
-        "en": "Completed",
-        "uz": "Yakunlangan"
       }
     }
   ],
