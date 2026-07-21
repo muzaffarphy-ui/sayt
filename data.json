@@ -225,8 +225,8 @@
       "uz": "Dekan, Tibbiyot fakulteti — Kimyo International University in Tashkent, Samarqand filiali"
     },
     "institution": {
-      "en": "Faculty of Medicine, Kimyo International University in Tashkent — Samarkand Branch, Samarkand, Uzbekistan",
-      "uz": "Tibbiyot fakulteti, Kimyo International University in Tashkent — Samarqand filiali, Samarqand, O'zbekiston"
+      "en": "School of Medicine, Kimyo International University in Tashkent — Samarkand Branch, Samarkand, Uzbekistan",
+      "uz": "Tibbiyot maktabi, Kimyo International University in Tashkent — Samarqand filiali, Samarqand, Oʻzbekiston."
     },
     "title": {
       "en": "MD, MSc — Cardiologist · PhD candidate in Cardiology",
@@ -242,7 +242,7 @@
       "en": "I work at the intersection of clinical electrophysiology and predictive cardiology: how the surface ECG and left atrial remodeling can be used to anticipate left ventricular dysfunction in patients with cardiac pacing and left bundle branch block — and how cardiac digital twin modeling can make that prediction patient-specific.",
       "uz": "Men klinik elektrofiziologiya va prognostik kardiologiya kesishmasida ishlayman: yurak stimulyatsiyasi va chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda yuzaki EKG va chap bo'lmacha remodellanishi orqali chap qorincha disfunksiyasini oldindan bashorat qilish — hamda cardiac digital twin modellashtirish bu bashoratni har bir bemorga xoslashtirish."
     },
-    "portrait": "",
+    "portrait": "/images/muzaffar_annayev.jpg__600x800_q85_subsampling-2-2-.jpg",
     "email": "muzaffarphy@outlook.com"
   },
   "teaching": {
