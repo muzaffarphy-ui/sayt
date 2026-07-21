@@ -295,7 +295,7 @@
   },
   "about": [
     {
-      "en": "I am a cardiologist and academic leader based in Samarkand, Uzbekistan. Since August 2024, I have served as Dean of the Faculty of Medicine at Kimyo International University in Tashkent, Samarkand Branch, where I am responsible for the design, quality and accreditation-readiness of the medical curriculum. Before that, I spent three years as an Assistant Professor at Samarkand State Medical University while practicing as a cardiologist at the Samarkand Regional Branch of the Republican Specialized Scientific & Practical Medical Center of Cardiology.",
+      "en": "I am a cardiologist and dean based in the School of Medicine at Kimyo International University, Samarkand campus. Since August 2024, I have been responsible for the design, quality and accreditation-readiness of the medical curriculum. Before that, I spent three years as an Assistant Professor at Samarkand State Medical University while practicing as a cardiologist at the Samarkand Regional Branch of the Republican Specialized Scientific & Practical Medical Center of Cardiology.",
       "uz": "2024-yil avgust oyidan buyon Toshkent shahridagi Kimyo xalqaro universiteti Samarqand filialida tibbiyot fakulteti dekani lavozimida faoliyat yuritib kelmoqdaman.  Bu yerda ta'lim yo'nalishi rahbari sifatida, tibbiyotda o‘quv dasturlarini ishlab chiqish, ularning sifati va akkreditatsiyaga tayyorligi uchun mas’ulman. Bungacha uch yil davomida Samarqand davlat tibbiyot universitetida professor-o'qituvchi lavozimida ishlaganman va Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi Samarqand viloyati filialida kardiolog-shifokor bo‘lib faoliyat yuritganman."
     },
     {
@@ -303,8 +303,8 @@
       "uz": "Tayyorgarligim xalqaro bo'lgan. Janubiy Koreyaning Dejon shahridagi Chungnam milliy universitetida Tibbiyot (Kardiologiya) bo'yicha magistratura (MSc) ni tamomladim, jumladan Chungnam National University Hospital katetеrizatsiya laboratoriyasida interventsion kardiologiya bo'yicha klinik fellowship o'tadim; buni ketma-ket uchta ilmiy stipendiya qo'llab-quvvatladi. Shuningdek, Olmaotadagi Oliy ta'lim va sog'liqni saqlashda akkreditatsiya va sifat kafolati Yevrosiyo markazida tayyorlangan sertifikatlangan akkreditatsiya va sifat kafolati eksperti hisoblanaman."
     },
     {
-      "en": "I am currently completing a PhD (Falsafa doktori, specialty 14.00.06) at Samarkand State Medical University on LAVI-based prognostic modeling in patients with left bundle branch block, integrated with cardiac digital twin technology.",
-      "uz": "Hozirda Samarqand davlat tibbiyot universitetida PhD (Falsafa doktori, 14.00.06 ixtisosligi) ni yakunlamoqdaman — mavzu: chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda LAVI asosidagi prognostik modellashtirish, cardiac digital twin texnologiyasi bilan integratsiyada."
+      "en": "I am currently completing a PhD in digital medicine and cardiology at Kimyo International University on LAVI-based prognostic modeling in patients with left bundle branch block, integrated with cardiac digital twin technology.",
+      "uz": "Hozirda Toshkent Kimyo xalqaro universiteti Samarqand filialida raqamli tibbiyot va kardiologiya bo'yicha PhD mustaqil izlanuvchi sifatida ham faoliyat olib bormoqdaman. Ilmiy mavzuyim: Giss tutami chap oyoqcha blokadasi (LBBB) bo'lgan bemorlarda chap bo'lmacha hajmiy indeksi (LAVI)ning prognostik rolini raqamli egizaklar (digital twin) texnologiyasi vositasida o'rganishdan iborat."
     }
   ],
   "cv": {
@@ -638,8 +638,8 @@
   "projects": [
     {
       "title": {
-        "en": "LAVI-based prognostic modeling in left bundle branch block",
-        "uz": "Chap oyoqcha blokadasida LAVI asosidagi prognostik modellashtirish"
+        "en": "Digital twin based prognostic modeling in left bundle branch block",
+        "uz": "Raqamli egizaklar (digital twin) vositasida Giss tutami chap oyoqchasi blokadasida chap bo'lmacha hajmiy indeksining (LAVI) prognostik rolini aniqlash"
       },
       "role": {
         "en": "Doctoral researcher (lead)",
@@ -775,12 +775,12 @@
   "research": [
     {
       "title": {
-        "en": "ECG prediction of LV dysfunction in cardiac pacing",
-        "uz": "Yurak stimulyatsiyasida CHQ disfunksiyasini EKG orqali bashorat qilish"
+        "en": "Cardiac digital twin modeling",
+        "uz": "Cardiac digital twin modellashtirish"
       },
       "text": {
-        "en": "Identifying which electrocardiographic patterns after permanent pacemaker implantation predict a decline in left ventricular ejection fraction — so that patients can be moved early to physiological or resynchronisation pacing.",
-        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini aniqlash — bemorlarni erta bosqichda fiziologik yoki resinxronizatsiya stimulyatsiyasiga o'tkazish uchun."
+        "en": "Patient-specific computational models that combine imaging, ECG and clinical data — moving prognosis from the population average to the individual patient.",
+        "uz": "Tasvirlash, EKG va klinik ma'lumotlarni birlashtiruvchi bemorga xos hisoblash modellari — prognozni populyatsiya o'rtachasidan alohida bemorga ko'chirish."
       }
     },
     {
@@ -795,22 +795,22 @@
     },
     {
       "title": {
-        "en": "Cardiac digital twin modeling",
-        "uz": "Cardiac digital twin modellashtirish"
-      },
-      "text": {
-        "en": "Patient-specific computational models that combine imaging, ECG and clinical data — moving prognosis from the population average to the individual patient.",
-        "uz": "Tasvirlash, EKG va klinik ma'lumotlarni birlashtiruvchi bemorga xos hisoblash modellari — prognozni populyatsiya o'rtachasidan alohida bemorga ko'chirish."
-      }
-    },
-    {
-      "title": {
         "en": "Arrhythmia & conduction disease",
         "uz": "Aritmiya va o'tkazuvchanlik kasalliklari"
       },
       "text": {
         "en": "Clinical electrophysiology: accessory pathway syndromes, conduction block, and the interpretation of complex paced and pre-excited electrocardiograms.",
         "uz": "Klinik elektrofiziologiya: qo'shimcha o'tkazuvchi yo'l sindromlari, o'tkazuvchanlik blokadasi hamda murakkab stimulyatsiyalangan va pre-eksitatsiyali EKG'larni talqin qilish."
+      }
+    },
+    {
+      "title": {
+        "en": "ECG prediction of LV dysfunction in cardiac pacing",
+        "uz": "Yurak stimulyatsiyasida CHQ disfunksiyasini EKG orqali bashorat qilish"
+      },
+      "text": {
+        "en": "Identifying which electrocardiographic patterns after permanent pacemaker implantation predict a decline in left ventricular ejection fraction — so that patients can be moved early to physiological or resynchronisation pacing.",
+        "uz": "Doimiy elektrokardiostimulyator implantatsiyasidan keyin qaysi EKG patternlari chap qorincha otilish fraksiyasining pasayishini bashorat qilishini aniqlash — bemorlarni erta bosqichda fiziologik yoki resinxronizatsiya stimulyatsiyasiga o'tkazish uchun."
       }
     },
     {
