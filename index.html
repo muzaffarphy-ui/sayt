@@ -252,8 +252,6 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color
       <a href="#research" data-nav="research"></a>
       <a href="#projects" data-nav="projects"></a>
       <a href="#publications" data-nav="publications"></a>
-      <a href="#teaching" data-nav="teaching"></a>
-      <a href="#cv" data-nav="cv"></a>
       <a href="#news" data-nav="news"></a>
       <a href="#contact" data-nav="contact"></a>
     </div>
@@ -295,20 +293,6 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color
     </div>
     <ol class="pubs" id="pubList"></ol>
     <p class="note" id="c-pubnote"></p>
-  </section>
-
-  <section id="teaching">
-    <h2 data-h="teaching"></h2>
-    <p id="c-teach-intro"></p>
-    <div class="grid" id="c-teaching"></div>
-  </section>
-
-  <section id="cv">
-    <h2 data-h="cv"></h2>
-    <div class="cv-block"><h3 class="sub" data-sub="appointments"></h3><div id="c-appointments"></div></div>
-    <div class="cv-block"><h3 class="sub" data-sub="education"></h3><div id="c-education"></div></div>
-    <div class="cv-block"><h3 class="sub" data-sub="awards"></h3><div id="c-awards"></div></div>
-    <div class="cv-block"><h3 class="sub" data-sub="skills"></h3><dl class="defs" id="c-skills"></dl></div>
   </section>
 
   <section id="news"><h2 data-h="news"></h2><ul class="news" id="c-news"></ul></section>
@@ -490,8 +474,6 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color
         }).join('');
       }
       el('c-research').innerHTML = cards(D.research);
-      el('c-teach-intro').textContent = T(D.teaching && D.teaching.intro);
-      el('c-teaching').innerHTML = cards(D.teaching && D.teaching.cards);
 
       // projects
       var lab = U.labels || {};
@@ -507,24 +489,6 @@ footer{border-top:1px solid var(--line);padding:26px 0 40px;font-size:13px;color
           (metaLine || status ? '<div class="meta">' + metaLine + (metaLine && status ? '<span class="dot">·</span>' : '') + status + '</div>' : '') +
           (T(pr.description) ? '<p>' + esc(T(pr.description)) + link + '</p>' : '') +
           partners + '</div>';
-      }).join('');
-
-      // CV
-      function entries(arr) {
-        return (arr || []).map(function (e) {
-          return '<div class="entry"><div class="when">' + esc(T(e.when)) + '</div><div class="what">' +
-            '<strong>' + esc(T(e.what)) + '</strong>' +
-            (T(e.where) ? '<div class="where">' + esc(T(e.where)) + '</div>' : '') +
-            (T(e.detail) ? '<div class="detail">' + esc(T(e.detail)) + '</div>' : '') +
-            '</div></div>';
-        }).join('');
-      }
-      var CV = D.cv || {};
-      el('c-appointments').innerHTML = entries(CV.appointments);
-      el('c-education').innerHTML = entries(CV.education);
-      el('c-awards').innerHTML = entries(CV.awards);
-      el('c-skills').innerHTML = (CV.skills || []).map(function (s) {
-        return '<div><dt>' + esc(T(s.label)) + '</dt><dd>' + esc(T(s.value)) + '</dd></div>';
       }).join('');
 
       renderNews();
